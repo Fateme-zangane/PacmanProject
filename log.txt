@@ -1,7 +1,6 @@
 <----> START The time is: 2023-06-22-16:28:18 <---->
 Enter your first name:
 : Enter your last name:
-: Enter your student code:
 : pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
 Hello from the pygame community. https://www.pygame.org/contribute.html
 BFS number of expanded Nodes GREENGHOST:  188
