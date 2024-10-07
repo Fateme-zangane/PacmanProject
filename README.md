@@ -52,7 +52,6 @@ PacmanProject/
 └── pacstructs.py      # Contains classes for game objects (Pacman, Ghost, GridCell, SearchNode, etc.)
 └── info.txt           # Additional information or configuration settings related to the game
 └── data               #Have some initial image required for graphical presentation 
-
 └── README.md          # This README file providing an overview and documentation of the project
 ```
 
