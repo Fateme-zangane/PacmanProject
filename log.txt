@@ -1,0 +1,2866 @@
+<----> START The time is: 2023-06-22-16:28:18 <---->
+Enter your first name:
+: Enter your last name:
+: Enter your student code:
+: pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+BFS number of expanded Nodes GREENGHOST:  188
+BFS number of total Nodes GREENGHOST:  531
+BFS computation time GREENGHOST:  0.013153791427612305
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.013498783111572266
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.012835025787353516
+BFS number of expanded Nodes GREENGHOST:  188
+BFS number of total Nodes GREENGHOST:  531
+BFS computation time GREENGHOST:  0.017509937286376953
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.015506744384765625
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.014615058898925781
+BFS number of expanded Nodes GREENGHOST:  188
+BFS number of total Nodes GREENGHOST:  531
+BFS computation time GREENGHOST:  0.018239974975585938
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.016613006591796875
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.014256000518798828
+BFS number of expanded Nodes GREENGHOST:  188
+BFS number of total Nodes GREENGHOST:  531
+BFS computation time GREENGHOST:  0.00881195068359375
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.008449077606201172
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.00832509994506836
+BFS number of expanded Nodes GREENGHOST:  186
+BFS number of total Nodes GREENGHOST:  525
+BFS computation time GREENGHOST:  0.017051219940185547
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.018522024154663086
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.011552095413208008
+BFS number of expanded Nodes GREENGHOST:  164
+BFS number of total Nodes GREENGHOST:  468
+BFS computation time GREENGHOST:  0.01380300521850586
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.011654853820800781
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.00957489013671875
+BFS number of expanded Nodes GREENGHOST:  168
+BFS number of total Nodes GREENGHOST:  478
+BFS computation time GREENGHOST:  0.014632940292358398
+BFS number of expanded Nodes REDGHOST:  188
+BFS number of total Nodes REDGHOST:  531
+BFS computation time REDGHOST:  0.011408090591430664
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.010516166687011719
+BFS number of expanded Nodes GREENGHOST:  140
+BFS number of total Nodes GREENGHOST:  400
+BFS computation time GREENGHOST:  0.010744094848632812
+BFS number of expanded Nodes REDGHOST:  186
+BFS number of total Nodes REDGHOST:  525
+BFS computation time REDGHOST:  0.0124969482421875
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.013667106628417969
+BFS number of expanded Nodes GREENGHOST:  123
+BFS number of total Nodes GREENGHOST:  353
+BFS computation time GREENGHOST:  0.00903177261352539
+BFS number of expanded Nodes REDGHOST:  164
+BFS number of total Nodes REDGHOST:  468
+BFS computation time REDGHOST:  0.010374069213867188
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.010200023651123047
+BFS number of expanded Nodes GREENGHOST:  111
+BFS number of total Nodes GREENGHOST:  317
+BFS computation time GREENGHOST:  0.007741212844848633
+BFS number of expanded Nodes REDGHOST:  168
+BFS number of total Nodes REDGHOST:  478
+BFS computation time REDGHOST:  0.011733055114746094
+BFS number of expanded Nodes ORANGEGHOST:  188
+BFS number of total Nodes ORANGEGHOST:  531
+BFS computation time ORANGEGHOST:  0.014991998672485352
+BFS number of expanded Nodes GREENGHOST:  107
+BFS number of total Nodes GREENGHOST:  307
+BFS computation time GREENGHOST:  0.007323265075683594
+BFS number of expanded Nodes REDGHOST:  140
+BFS number of total Nodes REDGHOST:  400
+BFS computation time REDGHOST:  0.008754968643188477
+BFS number of expanded Nodes ORANGEGHOST:  186
+BFS number of total Nodes ORANGEGHOST:  525
+BFS computation time ORANGEGHOST:  0.015282154083251953
+BFS number of expanded Nodes GREENGHOST:  83
+BFS number of total Nodes GREENGHOST:  241
+BFS computation time GREENGHOST:  0.001729726791381836
+BFS number of expanded Nodes REDGHOST:  123
+BFS number of total Nodes REDGHOST:  353
+BFS computation time REDGHOST:  0.0035431385040283203
+BFS number of expanded Nodes ORANGEGHOST:  164
+BFS number of total Nodes ORANGEGHOST:  468
+BFS computation time ORANGEGHOST:  0.006695985794067383
+BFS number of expanded Nodes GREENGHOST:  75
+BFS number of total Nodes GREENGHOST:  218
+BFS computation time GREENGHOST:  0.0014910697937011719
+BFS number of expanded Nodes REDGHOST:  122
+BFS number of total Nodes REDGHOST:  347
+BFS computation time REDGHOST:  0.0038471221923828125
+BFS number of expanded Nodes ORANGEGHOST:  186
+BFS number of total Nodes ORANGEGHOST:  527
+BFS computation time ORANGEGHOST:  0.013131856918334961
+BFS number of expanded Nodes GREENGHOST:  70
+BFS number of total Nodes GREENGHOST:  201
+BFS computation time GREENGHOST:  0.0012819766998291016
+BFS number of expanded Nodes REDGHOST:  127
+BFS number of total Nodes REDGHOST:  360
+BFS computation time REDGHOST:  0.0038709640502929688
+BFS number of expanded Nodes ORANGEGHOST:  144
+BFS number of total Nodes ORANGEGHOST:  411
+BFS computation time ORANGEGHOST:  0.004889011383056641
+BFS number of expanded Nodes GREENGHOST:  58
+BFS number of total Nodes GREENGHOST:  166
+BFS computation time GREENGHOST:  0.002756834030151367
+BFS number of expanded Nodes REDGHOST:  114
+BFS number of total Nodes REDGHOST:  325
+BFS computation time REDGHOST:  0.007179975509643555
+BFS number of expanded Nodes ORANGEGHOST:  137
+BFS number of total Nodes ORANGEGHOST:  394
+BFS computation time ORANGEGHOST:  0.0077130794525146484
+BFS number of expanded Nodes GREENGHOST:  55
+BFS number of total Nodes GREENGHOST:  158
+BFS computation time GREENGHOST:  0.0025038719177246094
+BFS number of expanded Nodes REDGHOST:  106
+BFS number of total Nodes REDGHOST:  304
+BFS computation time REDGHOST:  0.006562709808349609
+BFS number of expanded Nodes ORANGEGHOST:  87
+BFS number of total Nodes ORANGEGHOST:  254
+BFS computation time ORANGEGHOST:  0.0038449764251708984
+BFS number of expanded Nodes GREENGHOST:  51
+BFS number of total Nodes GREENGHOST:  146
+BFS computation time GREENGHOST:  0.0022008419036865234
+BFS number of expanded Nodes REDGHOST:  95
+BFS number of total Nodes REDGHOST:  273
+BFS computation time REDGHOST:  0.0050449371337890625
+BFS number of expanded Nodes ORANGEGHOST:  75
+BFS number of total Nodes ORANGEGHOST:  220
+BFS computation time ORANGEGHOST:  0.0029480457305908203
+BFS number of expanded Nodes GREENGHOST:  56
+BFS number of total Nodes GREENGHOST:  161
+BFS computation time GREENGHOST:  0.0026159286499023438
+BFS number of expanded Nodes REDGHOST:  87
+BFS number of total Nodes REDGHOST:  251
+BFS computation time REDGHOST:  0.004461050033569336
+BFS number of expanded Nodes ORANGEGHOST:  84
+BFS number of total Nodes ORANGEGHOST:  246
+BFS computation time ORANGEGHOST:  0.0036978721618652344
+BFS number of expanded Nodes GREENGHOST:  50
+BFS number of total Nodes GREENGHOST:  143
+BFS computation time GREENGHOST:  0.0021610260009765625
+BFS number of expanded Nodes REDGHOST:  70
+BFS number of total Nodes REDGHOST:  201
+BFS computation time REDGHOST:  0.003190755844116211
+BFS number of expanded Nodes ORANGEGHOST:  70
+BFS number of total Nodes ORANGEGHOST:  205
+BFS computation time ORANGEGHOST:  0.002717256546020508
+BFS number of expanded Nodes GREENGHOST:  42
+BFS number of total Nodes GREENGHOST:  123
+BFS computation time GREENGHOST:  0.0016770362854003906
+BFS number of expanded Nodes REDGHOST:  60
+BFS number of total Nodes REDGHOST:  173
+BFS computation time REDGHOST:  0.0027930736541748047
+BFS number of expanded Nodes ORANGEGHOST:  55
+BFS number of total Nodes ORANGEGHOST:  164
+BFS computation time ORANGEGHOST:  0.0017490386962890625
+BFS number of expanded Nodes GREENGHOST:  30
+BFS number of total Nodes GREENGHOST:  88
+BFS computation time GREENGHOST:  0.0010609626770019531
+BFS number of expanded Nodes REDGHOST:  56
+BFS number of total Nodes REDGHOST:  161
+BFS computation time REDGHOST:  0.0025339126586914062
+BFS number of expanded Nodes ORANGEGHOST:  43
+BFS number of total Nodes ORANGEGHOST:  128
+BFS computation time ORANGEGHOST:  0.0013360977172851562
+BFS number of expanded Nodes GREENGHOST:  31
+BFS number of total Nodes GREENGHOST:  92
+BFS computation time GREENGHOST:  0.0009849071502685547
+BFS number of expanded Nodes REDGHOST:  60
+BFS number of total Nodes REDGHOST:  173
+BFS computation time REDGHOST:  0.002862691879272461
+BFS number of expanded Nodes ORANGEGHOST:  41
+BFS number of total Nodes ORANGEGHOST:  122
+BFS computation time ORANGEGHOST:  0.0012469291687011719
+BFS number of expanded Nodes GREENGHOST:  23
+BFS number of total Nodes GREENGHOST:  68
+BFS computation time GREENGHOST:  0.0006320476531982422
+BFS number of expanded Nodes REDGHOST:  54
+BFS number of total Nodes REDGHOST:  155
+BFS computation time REDGHOST:  0.002385854721069336
+BFS number of expanded Nodes ORANGEGHOST:  26
+BFS number of total Nodes ORANGEGHOST:  77
+BFS computation time ORANGEGHOST:  0.0006892681121826172
+BFS number of expanded Nodes GREENGHOST:  17
+BFS number of total Nodes GREENGHOST:  50
+BFS computation time GREENGHOST:  0.0004169940948486328
+BFS number of expanded Nodes REDGHOST:  41
+BFS number of total Nodes REDGHOST:  120
+BFS computation time REDGHOST:  0.0014750957489013672
+BFS number of expanded Nodes ORANGEGHOST:  23
+BFS number of total Nodes ORANGEGHOST:  68
+BFS computation time ORANGEGHOST:  0.0005676746368408203
+BFS number of expanded Nodes GREENGHOST:  18
+BFS number of total Nodes GREENGHOST:  53
+BFS computation time GREENGHOST:  0.00045108795166015625
+BFS number of expanded Nodes REDGHOST:  41
+BFS number of total Nodes REDGHOST:  120
+BFS computation time REDGHOST:  0.001486063003540039
+BFS number of expanded Nodes ORANGEGHOST:  25
+BFS number of total Nodes ORANGEGHOST:  74
+BFS computation time ORANGEGHOST:  0.0006449222564697266
+BFS number of expanded Nodes GREENGHOST:  21
+BFS number of total Nodes GREENGHOST:  62
+BFS computation time GREENGHOST:  0.0005581378936767578
+BFS number of expanded Nodes REDGHOST:  42
+BFS number of total Nodes REDGHOST:  123
+BFS computation time REDGHOST:  0.0015590190887451172
+BFS number of expanded Nodes ORANGEGHOST:  31
+BFS number of total Nodes ORANGEGHOST:  92
+BFS computation time ORANGEGHOST:  0.0009129047393798828
+BFS number of expanded Nodes GREENGHOST:  24
+BFS number of total Nodes GREENGHOST:  71
+BFS computation time GREENGHOST:  0.0006759166717529297
+BFS number of expanded Nodes REDGHOST:  43
+BFS number of total Nodes REDGHOST:  126
+BFS computation time REDGHOST:  0.0016698837280273438
+BFS number of expanded Nodes ORANGEGHOST:  37
+BFS number of total Nodes ORANGEGHOST:  108
+BFS computation time ORANGEGHOST:  0.001466989517211914
+BFS number of expanded Nodes GREENGHOST:  13
+BFS number of total Nodes GREENGHOST:  38
+BFS computation time GREENGHOST:  0.00029397010803222656
+BFS number of expanded Nodes REDGHOST:  37
+BFS number of total Nodes REDGHOST:  108
+BFS computation time REDGHOST:  0.0012600421905517578
+BFS number of expanded Nodes ORANGEGHOST:  30
+BFS number of total Nodes ORANGEGHOST:  89
+BFS computation time ORANGEGHOST:  0.0008649826049804688
+BFS number of expanded Nodes GREENGHOST:  9
+BFS number of total Nodes GREENGHOST:  26
+BFS computation time GREENGHOST:  0.0001983642578125
+BFS number of expanded Nodes REDGHOST:  36
+BFS number of total Nodes REDGHOST:  105
+BFS computation time REDGHOST:  0.001216888427734375
+BFS number of expanded Nodes ORANGEGHOST:  29
+BFS number of total Nodes ORANGEGHOST:  85
+BFS computation time ORANGEGHOST:  0.0008189678192138672
+BFS number of expanded Nodes GREENGHOST:  6
+BFS number of total Nodes GREENGHOST:  17
+BFS computation time GREENGHOST:  0.00014591217041015625
+BFS number of expanded Nodes REDGHOST:  29
+BFS number of total Nodes REDGHOST:  85
+BFS computation time REDGHOST:  0.0009288787841796875
+BFS number of expanded Nodes ORANGEGHOST:  20
+BFS number of total Nodes ORANGEGHOST:  59
+BFS computation time ORANGEGHOST:  0.0004699230194091797
+BFS number of expanded Nodes GREENGHOST:  3
+BFS number of total Nodes GREENGHOST:  8
+BFS computation time GREENGHOST:  7.891654968261719e-05
+BFS number of expanded Nodes REDGHOST:  20
+BFS number of total Nodes REDGHOST:  59
+BFS computation time REDGHOST:  0.0005152225494384766
+BFS number of expanded Nodes ORANGEGHOST:  11
+BFS number of total Nodes ORANGEGHOST:  32
+BFS computation time ORANGEGHOST:  0.00019288063049316406
+BFS number of expanded Nodes GREENGHOST:  3
+BFS number of total Nodes GREENGHOST:  8
+BFS computation time GREENGHOST:  7.796287536621094e-05
+BFS number of expanded Nodes REDGHOST:  6
+BFS number of total Nodes REDGHOST:  17
+BFS computation time REDGHOST:  0.00011706352233886719
+BFS number of expanded Nodes ORANGEGHOST:  4
+BFS number of total Nodes ORANGEGHOST:  11
+BFS computation time ORANGEGHOST:  7.295608520507812e-05
+Thanks for playing
+You got  13 nomdots.
+Your time was: 16.572939157485962 seconds
+saving...
+
+<----> START The time is: 2023-06-22-19:50:16 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-22-19:52:41 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-22-19:56:57 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-22-20:14:19 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-22-20:22:36 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-22-21:48:16 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-23-11:05:12 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-23-19:48:45 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  188
+ASTART number of total Nodes GREENGHOST:  531
+ASTART computation time GREENGHOST:  0.013709068298339844
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.010939836502075195
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.010531187057495117
+ASTART number of expanded Nodes GREENGHOST:  188
+ASTART number of total Nodes GREENGHOST:  531
+ASTART computation time GREENGHOST:  0.01737689971923828
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.010809898376464844
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.009602069854736328
+ASTART number of expanded Nodes GREENGHOST:  188
+ASTART number of total Nodes GREENGHOST:  531
+ASTART computation time GREENGHOST:  0.017289161682128906
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.011097192764282227
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.015526294708251953
+ASTART number of expanded Nodes GREENGHOST:  188
+ASTART number of total Nodes GREENGHOST:  531
+ASTART computation time GREENGHOST:  0.017436981201171875
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.01149892807006836
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.014496803283691406
+ASTART number of expanded Nodes GREENGHOST:  186
+ASTART number of total Nodes GREENGHOST:  525
+ASTART computation time GREENGHOST:  0.01710987091064453
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.010853052139282227
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.014785051345825195
+ASTART number of expanded Nodes GREENGHOST:  164
+ASTART number of total Nodes GREENGHOST:  468
+ASTART computation time GREENGHOST:  0.014260053634643555
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.011871099472045898
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.010411977767944336
+ASTART number of expanded Nodes GREENGHOST:  168
+ASTART number of total Nodes GREENGHOST:  478
+ASTART computation time GREENGHOST:  0.014650106430053711
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.012428045272827148
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.014364957809448242
+ASTART number of expanded Nodes GREENGHOST:  140
+ASTART number of total Nodes GREENGHOST:  400
+ASTART computation time GREENGHOST:  0.011227846145629883
+ASTART number of expanded Nodes REDGHOST:  186
+ASTART number of total Nodes REDGHOST:  525
+ASTART computation time REDGHOST:  0.0125579833984375
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.015428304672241211
+ASTART number of expanded Nodes GREENGHOST:  123
+ASTART number of total Nodes GREENGHOST:  353
+ASTART computation time GREENGHOST:  0.008517026901245117
+ASTART number of expanded Nodes REDGHOST:  164
+ASTART number of total Nodes REDGHOST:  468
+ASTART computation time REDGHOST:  0.0127410888671875
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.012490987777709961
+ASTART number of expanded Nodes GREENGHOST:  111
+ASTART number of total Nodes GREENGHOST:  317
+ASTART computation time GREENGHOST:  0.00782012939453125
+ASTART number of expanded Nodes REDGHOST:  168
+ASTART number of total Nodes REDGHOST:  478
+ASTART computation time REDGHOST:  0.011558055877685547
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.01583576202392578
+ASTART number of expanded Nodes GREENGHOST:  107
+ASTART number of total Nodes GREENGHOST:  307
+ASTART computation time GREENGHOST:  0.007462024688720703
+ASTART number of expanded Nodes REDGHOST:  140
+ASTART number of total Nodes REDGHOST:  400
+ASTART computation time REDGHOST:  0.00948190689086914
+ASTART number of expanded Nodes ORANGEGHOST:  186
+ASTART number of total Nodes ORANGEGHOST:  525
+ASTART computation time ORANGEGHOST:  0.014335870742797852
+ASTART number of expanded Nodes GREENGHOST:  83
+ASTART number of total Nodes GREENGHOST:  241
+ASTART computation time GREENGHOST:  0.005068063735961914
+ASTART number of expanded Nodes REDGHOST:  123
+ASTART number of total Nodes REDGHOST:  353
+ASTART computation time REDGHOST:  0.007417917251586914
+ASTART number of expanded Nodes ORANGEGHOST:  164
+ASTART number of total Nodes ORANGEGHOST:  468
+ASTART computation time ORANGEGHOST:  0.00972890853881836
+ASTART number of expanded Nodes GREENGHOST:  61
+ASTART number of total Nodes GREENGHOST:  178
+ASTART computation time GREENGHOST:  0.003055095672607422
+ASTART number of expanded Nodes REDGHOST:  111
+ASTART number of total Nodes REDGHOST:  317
+ASTART computation time REDGHOST:  0.006907939910888672
+ASTART number of expanded Nodes ORANGEGHOST:  168
+ASTART number of total Nodes ORANGEGHOST:  478
+ASTART computation time ORANGEGHOST:  0.015112161636352539
+ASTART number of expanded Nodes GREENGHOST:  49
+ASTART number of total Nodes GREENGHOST:  142
+ASTART computation time GREENGHOST:  0.0022170543670654297
+ASTART number of expanded Nodes REDGHOST:  107
+ASTART number of total Nodes REDGHOST:  307
+ASTART computation time REDGHOST:  0.006604194641113281
+ASTART number of expanded Nodes ORANGEGHOST:  140
+ASTART number of total Nodes ORANGEGHOST:  400
+ASTART computation time ORANGEGHOST:  0.011569976806640625
+ASTART number of expanded Nodes GREENGHOST:  42
+ASTART number of total Nodes GREENGHOST:  121
+ASTART computation time GREENGHOST:  0.00162506103515625
+ASTART number of expanded Nodes REDGHOST:  83
+ASTART number of total Nodes REDGHOST:  241
+ASTART computation time REDGHOST:  0.00463414192199707
+ASTART number of expanded Nodes ORANGEGHOST:  123
+ASTART number of total Nodes ORANGEGHOST:  353
+ASTART computation time ORANGEGHOST:  0.010712146759033203
+ASTART number of expanded Nodes GREENGHOST:  33
+ASTART number of total Nodes GREENGHOST:  95
+ASTART computation time GREENGHOST:  0.00109100341796875
+ASTART number of expanded Nodes REDGHOST:  61
+ASTART number of total Nodes REDGHOST:  178
+ASTART computation time REDGHOST:  0.0030069351196289062
+ASTART number of expanded Nodes ORANGEGHOST:  111
+ASTART number of total Nodes ORANGEGHOST:  317
+ASTART computation time ORANGEGHOST:  0.006564140319824219
+ASTART number of expanded Nodes GREENGHOST:  27
+ASTART number of total Nodes GREENGHOST:  78
+ASTART computation time GREENGHOST:  0.0007970333099365234
+ASTART number of expanded Nodes REDGHOST:  49
+ASTART number of total Nodes REDGHOST:  142
+ASTART computation time REDGHOST:  0.002035856246948242
+ASTART number of expanded Nodes ORANGEGHOST:  107
+ASTART number of total Nodes ORANGEGHOST:  307
+ASTART computation time ORANGEGHOST:  0.008085012435913086
+ASTART number of expanded Nodes GREENGHOST:  19
+ASTART number of total Nodes GREENGHOST:  56
+ASTART computation time GREENGHOST:  0.0004951953887939453
+ASTART number of expanded Nodes REDGHOST:  42
+ASTART number of total Nodes REDGHOST:  121
+ASTART computation time REDGHOST:  0.0015761852264404297
+ASTART number of expanded Nodes ORANGEGHOST:  83
+ASTART number of total Nodes ORANGEGHOST:  241
+ASTART computation time ORANGEGHOST:  0.005379915237426758
+ASTART number of expanded Nodes GREENGHOST:  11
+ASTART number of total Nodes GREENGHOST:  32
+ASTART computation time GREENGHOST:  0.0002467632293701172
+ASTART number of expanded Nodes REDGHOST:  33
+ASTART number of total Nodes REDGHOST:  95
+ASTART computation time REDGHOST:  0.0010676383972167969
+ASTART number of expanded Nodes ORANGEGHOST:  61
+ASTART number of total Nodes ORANGEGHOST:  178
+ASTART computation time ORANGEGHOST:  0.003007173538208008
+ASTART number of expanded Nodes GREENGHOST:  6
+ASTART number of total Nodes GREENGHOST:  17
+ASTART computation time GREENGHOST:  0.0001430511474609375
+ASTART number of expanded Nodes REDGHOST:  27
+ASTART number of total Nodes REDGHOST:  78
+ASTART computation time REDGHOST:  0.0007908344268798828
+ASTART number of expanded Nodes ORANGEGHOST:  49
+ASTART number of total Nodes ORANGEGHOST:  142
+ASTART computation time ORANGEGHOST:  0.002050161361694336
+ASTART number of expanded Nodes GREENGHOST:  3
+ASTART number of total Nodes GREENGHOST:  8
+ASTART computation time GREENGHOST:  8.273124694824219e-05
+ASTART number of expanded Nodes REDGHOST:  19
+ASTART number of total Nodes REDGHOST:  56
+ASTART computation time REDGHOST:  0.0004839897155761719
+ASTART number of expanded Nodes ORANGEGHOST:  42
+ASTART number of total Nodes ORANGEGHOST:  121
+ASTART computation time ORANGEGHOST:  0.0015478134155273438
+Thanks for playing
+You got  1 nomdots.
+Your time was: 11.137123107910156 seconds
+saving...
+
+<----> START The time is: 2023-06-23-19:49:45 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  188
+ASTART number of total Nodes GREENGHOST:  531
+ASTART computation time GREENGHOST:  0.00932002067565918
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.009130001068115234
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.012823104858398438
+ASTART number of expanded Nodes GREENGHOST:  188
+ASTART number of total Nodes GREENGHOST:  531
+ASTART computation time GREENGHOST:  0.017017126083374023
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.016935110092163086
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.011686086654663086
+ASTART number of expanded Nodes GREENGHOST:  188
+ASTART number of total Nodes GREENGHOST:  531
+ASTART computation time GREENGHOST:  0.017657995223999023
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.010709047317504883
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.009313106536865234
+ASTART number of expanded Nodes GREENGHOST:  188
+ASTART number of total Nodes GREENGHOST:  531
+ASTART computation time GREENGHOST:  0.016275882720947266
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.01063084602355957
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.010030031204223633
+ASTART number of expanded Nodes GREENGHOST:  186
+ASTART number of total Nodes GREENGHOST:  525
+ASTART computation time GREENGHOST:  0.01626896858215332
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.010560989379882812
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.010078907012939453
+ASTART number of expanded Nodes GREENGHOST:  164
+ASTART number of total Nodes GREENGHOST:  468
+ASTART computation time GREENGHOST:  0.013894081115722656
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.011780261993408203
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.014086246490478516
+ASTART number of expanded Nodes GREENGHOST:  168
+ASTART number of total Nodes GREENGHOST:  478
+ASTART computation time GREENGHOST:  0.014417171478271484
+ASTART number of expanded Nodes REDGHOST:  188
+ASTART number of total Nodes REDGHOST:  531
+ASTART computation time REDGHOST:  0.012146949768066406
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.014851093292236328
+ASTART number of expanded Nodes GREENGHOST:  140
+ASTART number of total Nodes GREENGHOST:  400
+ASTART computation time GREENGHOST:  0.008822917938232422
+ASTART number of expanded Nodes REDGHOST:  186
+ASTART number of total Nodes REDGHOST:  525
+ASTART computation time REDGHOST:  0.009414911270141602
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.013528108596801758
+ASTART number of expanded Nodes GREENGHOST:  123
+ASTART number of total Nodes GREENGHOST:  353
+ASTART computation time GREENGHOST:  0.009036064147949219
+ASTART number of expanded Nodes REDGHOST:  164
+ASTART number of total Nodes REDGHOST:  468
+ASTART computation time REDGHOST:  0.0170443058013916
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.011905193328857422
+ASTART number of expanded Nodes GREENGHOST:  111
+ASTART number of total Nodes GREENGHOST:  317
+ASTART computation time GREENGHOST:  0.0076999664306640625
+ASTART number of expanded Nodes REDGHOST:  168
+ASTART number of total Nodes REDGHOST:  478
+ASTART computation time REDGHOST:  0.016175270080566406
+ASTART number of expanded Nodes ORANGEGHOST:  188
+ASTART number of total Nodes ORANGEGHOST:  531
+ASTART computation time ORANGEGHOST:  0.010889053344726562
+ASTART number of expanded Nodes GREENGHOST:  107
+ASTART number of total Nodes GREENGHOST:  307
+ASTART computation time GREENGHOST:  0.00728297233581543
+ASTART number of expanded Nodes REDGHOST:  140
+ASTART number of total Nodes REDGHOST:  400
+ASTART computation time REDGHOST:  0.008810997009277344
+ASTART number of expanded Nodes ORANGEGHOST:  186
+ASTART number of total Nodes ORANGEGHOST:  525
+ASTART computation time ORANGEGHOST:  0.010918855667114258
+ASTART number of expanded Nodes GREENGHOST:  83
+ASTART number of total Nodes GREENGHOST:  241
+ASTART computation time GREENGHOST:  0.00489497184753418
+ASTART number of expanded Nodes REDGHOST:  123
+ASTART number of total Nodes REDGHOST:  353
+ASTART computation time REDGHOST:  0.007395744323730469
+ASTART number of expanded Nodes ORANGEGHOST:  164
+ASTART number of total Nodes ORANGEGHOST:  468
+ASTART computation time ORANGEGHOST:  0.00966191291809082
+ASTART number of expanded Nodes GREENGHOST:  61
+ASTART number of total Nodes GREENGHOST:  178
+ASTART computation time GREENGHOST:  0.0032830238342285156
+ASTART number of expanded Nodes REDGHOST:  111
+ASTART number of total Nodes REDGHOST:  317
+ASTART computation time REDGHOST:  0.006582975387573242
+ASTART number of expanded Nodes ORANGEGHOST:  168
+ASTART number of total Nodes ORANGEGHOST:  478
+ASTART computation time ORANGEGHOST:  0.010782241821289062
+Thanks for playing!
+Your score was: 1
+Your time was: 7.001978158950806 seconds
+saving...
+<----> END The time is: 2023-06-23-19:49:45 <---->
+<----> START The time is: 2023-06-23-23:39:28 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-23-23:41:25 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-23-23:47:21 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-23-23:51:24 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-23-23:56:11 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0015819072723388672
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.00152587890625
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0015079975128173828
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.003426790237426758
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002582073211669922
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002359151840209961
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0034880638122558594
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002532958984375
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0023190975189208984
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0034012794494628906
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002615213394165039
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0023577213287353516
+ASTART number of expanded Nodes GREENGHOST:  52
+ASTART number of total Nodes GREENGHOST:  153
+ASTART computation time GREENGHOST:  0.0023839473724365234
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0028989315032958984
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002371072769165039
+ASTART number of expanded Nodes GREENGHOST:  48
+ASTART number of total Nodes GREENGHOST:  142
+ASTART computation time GREENGHOST:  0.0020868778228759766
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002855062484741211
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002483844757080078
+ASTART number of expanded Nodes GREENGHOST:  41
+ASTART number of total Nodes GREENGHOST:  122
+ASTART computation time GREENGHOST:  0.0016300678253173828
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0030968189239501953
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002323150634765625
+ASTART number of expanded Nodes GREENGHOST:  38
+ASTART number of total Nodes GREENGHOST:  113
+ASTART computation time GREENGHOST:  0.0014340877532958984
+ASTART number of expanded Nodes REDGHOST:  52
+ASTART number of total Nodes REDGHOST:  153
+ASTART computation time REDGHOST:  0.0023190975189208984
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0024368762969970703
+ASTART number of expanded Nodes GREENGHOST:  34
+ASTART number of total Nodes GREENGHOST:  101
+ASTART computation time GREENGHOST:  0.0012161731719970703
+ASTART number of expanded Nodes REDGHOST:  48
+ASTART number of total Nodes REDGHOST:  142
+ASTART computation time REDGHOST:  0.002023935317993164
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0026259422302246094
+ASTART number of expanded Nodes GREENGHOST:  22
+ASTART number of total Nodes GREENGHOST:  65
+ASTART computation time GREENGHOST:  0.0006337165832519531
+ASTART number of expanded Nodes REDGHOST:  41
+ASTART number of total Nodes REDGHOST:  122
+ASTART computation time REDGHOST:  0.0015680789947509766
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0029458999633789062
+ASTART number of expanded Nodes GREENGHOST:  20
+ASTART number of total Nodes GREENGHOST:  59
+ASTART computation time GREENGHOST:  0.0005559921264648438
+ASTART number of expanded Nodes REDGHOST:  38
+ASTART number of total Nodes REDGHOST:  113
+ASTART computation time REDGHOST:  0.0013899803161621094
+ASTART number of expanded Nodes ORANGEGHOST:  52
+ASTART number of total Nodes ORANGEGHOST:  153
+ASTART computation time ORANGEGHOST:  0.0017521381378173828
+ASTART number of expanded Nodes GREENGHOST:  19
+ASTART number of total Nodes GREENGHOST:  56
+ASTART computation time GREENGHOST:  0.0005152225494384766
+ASTART number of expanded Nodes REDGHOST:  34
+ASTART number of total Nodes REDGHOST:  101
+ASTART computation time REDGHOST:  0.0013508796691894531
+ASTART number of expanded Nodes ORANGEGHOST:  48
+ASTART number of total Nodes ORANGEGHOST:  142
+ASTART computation time ORANGEGHOST:  0.002029895782470703
+ASTART number of expanded Nodes GREENGHOST:  18
+ASTART number of total Nodes GREENGHOST:  53
+ASTART computation time GREENGHOST:  0.0004699230194091797
+ASTART number of expanded Nodes REDGHOST:  22
+ASTART number of total Nodes REDGHOST:  65
+ASTART computation time REDGHOST:  0.0005667209625244141
+ASTART number of expanded Nodes ORANGEGHOST:  41
+ASTART number of total Nodes ORANGEGHOST:  122
+ASTART computation time ORANGEGHOST:  0.001550912857055664
+ASTART number of expanded Nodes GREENGHOST:  15
+ASTART number of total Nodes GREENGHOST:  44
+ASTART computation time GREENGHOST:  0.0003790855407714844
+ASTART number of expanded Nodes REDGHOST:  20
+ASTART number of total Nodes REDGHOST:  59
+ASTART computation time REDGHOST:  0.0004971027374267578
+ASTART number of expanded Nodes ORANGEGHOST:  38
+ASTART number of total Nodes ORANGEGHOST:  113
+ASTART computation time ORANGEGHOST:  0.0013718605041503906
+ASTART number of expanded Nodes GREENGHOST:  11
+ASTART number of total Nodes GREENGHOST:  32
+ASTART computation time GREENGHOST:  0.0002620220184326172
+ASTART number of expanded Nodes REDGHOST:  19
+ASTART number of total Nodes REDGHOST:  56
+ASTART computation time REDGHOST:  0.00046896934509277344
+ASTART number of expanded Nodes ORANGEGHOST:  34
+ASTART number of total Nodes ORANGEGHOST:  101
+ASTART computation time ORANGEGHOST:  0.001130819320678711
+ASTART number of expanded Nodes GREENGHOST:  9
+ASTART number of total Nodes GREENGHOST:  26
+ASTART computation time GREENGHOST:  0.0002129077911376953
+ASTART number of expanded Nodes REDGHOST:  18
+ASTART number of total Nodes REDGHOST:  53
+ASTART computation time REDGHOST:  0.00043129920959472656
+ASTART number of expanded Nodes ORANGEGHOST:  22
+ASTART number of total Nodes ORANGEGHOST:  65
+ASTART computation time ORANGEGHOST:  0.0005590915679931641
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.00019502639770507812
+ASTART number of expanded Nodes REDGHOST:  15
+ASTART number of total Nodes REDGHOST:  44
+ASTART computation time REDGHOST:  0.0003509521484375
+ASTART number of expanded Nodes ORANGEGHOST:  20
+ASTART number of total Nodes ORANGEGHOST:  59
+ASTART computation time ORANGEGHOST:  0.00048732757568359375
+ASTART number of expanded Nodes GREENGHOST:  5
+ASTART number of total Nodes GREENGHOST:  14
+ASTART computation time GREENGHOST:  0.0001289844512939453
+ASTART number of expanded Nodes REDGHOST:  11
+ASTART number of total Nodes REDGHOST:  32
+ASTART computation time REDGHOST:  0.00017189979553222656
+ASTART number of expanded Nodes ORANGEGHOST:  19
+ASTART number of total Nodes ORANGEGHOST:  56
+ASTART computation time ORANGEGHOST:  0.00027489662170410156
+ASTART number of expanded Nodes GREENGHOST:  4
+ASTART number of total Nodes GREENGHOST:  11
+ASTART computation time GREENGHOST:  0.00010991096496582031
+ASTART number of expanded Nodes REDGHOST:  9
+ASTART number of total Nodes REDGHOST:  26
+ASTART computation time REDGHOST:  0.0001919269561767578
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.0004260540008544922
+ASTART number of expanded Nodes GREENGHOST:  3
+ASTART number of total Nodes GREENGHOST:  8
+ASTART computation time GREENGHOST:  0.00010013580322265625
+ASTART number of expanded Nodes REDGHOST:  8
+ASTART number of total Nodes REDGHOST:  23
+ASTART computation time REDGHOST:  0.00018405914306640625
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  44
+ASTART computation time ORANGEGHOST:  0.0003440380096435547
+ASTART number of expanded Nodes GREENGHOST:  2
+ASTART number of total Nodes GREENGHOST:  5
+ASTART computation time GREENGHOST:  6.723403930664062e-05
+ASTART number of expanded Nodes REDGHOST:  5
+ASTART number of total Nodes REDGHOST:  14
+ASTART computation time REDGHOST:  0.00010204315185546875
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.00023293495178222656
+Thanks for playing
+You got  1 nomdots.
+Your time was: 10.76468300819397 seconds
+saving...
+
+<----> START The time is: 2023-06-24-16:12:55 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0012371540069580078
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0018999576568603516
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.001981019973754883
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0011467933654785156
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0011510848999023438
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.001125335693359375
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.003632068634033203
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002735137939453125
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0025720596313476562
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0034770965576171875
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002602815628051758
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0024247169494628906
+ASTART number of expanded Nodes GREENGHOST:  52
+ASTART number of total Nodes GREENGHOST:  153
+ASTART computation time GREENGHOST:  0.002458810806274414
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.003133058547973633
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.004550933837890625
+ASTART number of expanded Nodes GREENGHOST:  48
+ASTART number of total Nodes GREENGHOST:  142
+ASTART computation time GREENGHOST:  0.0021219253540039062
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.003017902374267578
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0025348663330078125
+ASTART number of expanded Nodes GREENGHOST:  41
+ASTART number of total Nodes GREENGHOST:  122
+ASTART computation time GREENGHOST:  0.0016789436340332031
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.003178119659423828
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0024878978729248047
+ASTART number of expanded Nodes GREENGHOST:  44
+ASTART number of total Nodes GREENGHOST:  131
+ASTART computation time GREENGHOST:  0.00186920166015625
+ASTART number of expanded Nodes REDGHOST:  61
+ASTART number of total Nodes REDGHOST:  180
+ASTART computation time REDGHOST:  0.0028378963470458984
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0015532970428466797
+ASTART number of expanded Nodes GREENGHOST:  38
+ASTART number of total Nodes GREENGHOST:  113
+ASTART computation time GREENGHOST:  0.0015680789947509766
+ASTART number of expanded Nodes REDGHOST:  50
+ASTART number of total Nodes REDGHOST:  146
+ASTART computation time REDGHOST:  0.0022280216217041016
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0017168521881103516
+ASTART number of expanded Nodes GREENGHOST:  19
+ASTART number of total Nodes GREENGHOST:  56
+ASTART computation time GREENGHOST:  0.0005180835723876953
+ASTART number of expanded Nodes REDGHOST:  34
+ASTART number of total Nodes REDGHOST:  101
+ASTART computation time REDGHOST:  0.0011479854583740234
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0014629364013671875
+ASTART number of expanded Nodes GREENGHOST:  18
+ASTART number of total Nodes GREENGHOST:  53
+ASTART computation time GREENGHOST:  0.0004868507385253906
+ASTART number of expanded Nodes REDGHOST:  31
+ASTART number of total Nodes REDGHOST:  92
+ASTART computation time REDGHOST:  0.0009899139404296875
+ASTART number of expanded Nodes ORANGEGHOST:  34
+ASTART number of total Nodes ORANGEGHOST:  101
+ASTART computation time ORANGEGHOST:  0.00115203857421875
+ASTART number of expanded Nodes GREENGHOST:  14
+ASTART number of total Nodes GREENGHOST:  41
+ASTART computation time GREENGHOST:  0.0003399848937988281
+ASTART number of expanded Nodes REDGHOST:  23
+ASTART number of total Nodes REDGHOST:  68
+ASTART computation time REDGHOST:  0.0006220340728759766
+ASTART number of expanded Nodes ORANGEGHOST:  28
+ASTART number of total Nodes ORANGEGHOST:  83
+ASTART computation time ORANGEGHOST:  0.0008382797241210938
+ASTART number of expanded Nodes GREENGHOST:  14
+ASTART number of total Nodes GREENGHOST:  41
+ASTART computation time GREENGHOST:  0.0003440380096435547
+ASTART number of expanded Nodes REDGHOST:  15
+ASTART number of total Nodes REDGHOST:  44
+ASTART computation time REDGHOST:  0.0003380775451660156
+ASTART number of expanded Nodes ORANGEGHOST:  16
+ASTART number of total Nodes ORANGEGHOST:  47
+ASTART computation time ORANGEGHOST:  0.0003490447998046875
+ASTART number of expanded Nodes GREENGHOST:  12
+ASTART number of total Nodes GREENGHOST:  35
+ASTART computation time GREENGHOST:  0.0002930164337158203
+ASTART number of expanded Nodes REDGHOST:  11
+ASTART number of total Nodes REDGHOST:  32
+ASTART computation time REDGHOST:  0.00022912025451660156
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.00023508071899414062
+ASTART number of expanded Nodes GREENGHOST:  11
+ASTART number of total Nodes GREENGHOST:  32
+ASTART computation time GREENGHOST:  0.00011229515075683594
+ASTART number of expanded Nodes REDGHOST:  8
+ASTART number of total Nodes REDGHOST:  23
+ASTART computation time REDGHOST:  5.91278076171875e-05
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  8.487701416015625e-05
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.0002090930938720703
+ASTART number of expanded Nodes REDGHOST:  7
+ASTART number of total Nodes REDGHOST:  20
+ASTART computation time REDGHOST:  0.00014090538024902344
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.0001399517059326172
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.0001919269561767578
+ASTART number of expanded Nodes REDGHOST:  8
+ASTART number of total Nodes REDGHOST:  23
+ASTART computation time REDGHOST:  0.00015878677368164062
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.00019502639770507812
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.00018262863159179688
+ASTART number of expanded Nodes REDGHOST:  9
+ASTART number of total Nodes REDGHOST:  26
+ASTART computation time REDGHOST:  0.0001690387725830078
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.0001850128173828125
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.00020003318786621094
+ASTART number of expanded Nodes REDGHOST:  11
+ASTART number of total Nodes REDGHOST:  32
+ASTART computation time REDGHOST:  0.00023984909057617188
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.00023412704467773438
+ASTART number of expanded Nodes GREENGHOST:  7
+ASTART number of total Nodes GREENGHOST:  20
+ASTART computation time GREENGHOST:  0.00016617774963378906
+ASTART number of expanded Nodes REDGHOST:  10
+ASTART number of total Nodes REDGHOST:  29
+ASTART computation time REDGHOST:  0.00019407272338867188
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.00020885467529296875
+ASTART number of expanded Nodes GREENGHOST:  9
+ASTART number of total Nodes GREENGHOST:  26
+ASTART computation time GREENGHOST:  0.00021886825561523438
+ASTART number of expanded Nodes REDGHOST:  4
+ASTART number of total Nodes REDGHOST:  11
+ASTART computation time REDGHOST:  7.104873657226562e-05
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.00010514259338378906
+ASTART number of expanded Nodes GREENGHOST:  7
+ASTART number of total Nodes GREENGHOST:  20
+ASTART computation time GREENGHOST:  0.0001690387725830078
+ASTART number of expanded Nodes REDGHOST:  3
+ASTART number of total Nodes REDGHOST:  8
+ASTART computation time REDGHOST:  5.316734313964844e-05
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  6.413459777832031e-05
+ASTART number of expanded Nodes GREENGHOST:  4
+ASTART number of total Nodes GREENGHOST:  11
+ASTART computation time GREENGHOST:  0.00010395050048828125
+ASTART number of expanded Nodes REDGHOST:  3
+ASTART number of total Nodes REDGHOST:  8
+ASTART computation time REDGHOST:  5.078315734863281e-05
+ASTART number of expanded Nodes ORANGEGHOST:  4
+ASTART number of total Nodes ORANGEGHOST:  11
+ASTART computation time ORANGEGHOST:  6.079673767089844e-05
+ASTART number of expanded Nodes GREENGHOST:  3
+ASTART number of total Nodes GREENGHOST:  8
+ASTART computation time GREENGHOST:  8.702278137207031e-05
+ASTART number of expanded Nodes REDGHOST:  2
+ASTART number of total Nodes REDGHOST:  5
+ASTART computation time REDGHOST:  3.790855407714844e-05
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  4.982948303222656e-05
+ASTART number of expanded Nodes GREENGHOST:  3
+ASTART number of total Nodes GREENGHOST:  8
+ASTART computation time GREENGHOST:  6.389617919921875e-05
+ASTART number of expanded Nodes REDGHOST:  2
+ASTART number of total Nodes REDGHOST:  5
+ASTART computation time REDGHOST:  2.574920654296875e-05
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  3.600120544433594e-05
+ASTART number of expanded Nodes GREENGHOST:  3
+ASTART number of total Nodes GREENGHOST:  8
+ASTART computation time GREENGHOST:  8.487701416015625e-05
+ASTART number of expanded Nodes REDGHOST:  2
+ASTART number of total Nodes REDGHOST:  5
+ASTART computation time REDGHOST:  3.695487976074219e-05
+ASTART number of expanded Nodes ORANGEGHOST:  3
+ASTART number of total Nodes ORANGEGHOST:  8
+ASTART computation time ORANGEGHOST:  4.982948303222656e-05
+Thanks for playing
+You got  12 nomdots.
+Your time was: 13.308030843734741 seconds
+saving...
+
+<----> START The time is: 2023-06-24-16:30:16 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-24-16:30:46 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-24-16:31:18 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+<----> START The time is: 2023-06-24-16:35:51 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0017311573028564453
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0015511512756347656
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0015308856964111328
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0035800933837890625
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002597808837890625
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002385854721069336
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.003506183624267578
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002624034881591797
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002418041229248047
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.003470897674560547
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0026428699493408203
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002372264862060547
+ASTART number of expanded Nodes GREENGHOST:  52
+ASTART number of total Nodes GREENGHOST:  153
+ASTART computation time GREENGHOST:  0.0024292469024658203
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002913236618041992
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002380847930908203
+ASTART number of expanded Nodes GREENGHOST:  48
+ASTART number of total Nodes GREENGHOST:  142
+ASTART computation time GREENGHOST:  0.002125978469848633
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.003031015396118164
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002379179000854492
+ASTART number of expanded Nodes GREENGHOST:  41
+ASTART number of total Nodes GREENGHOST:  122
+ASTART computation time GREENGHOST:  0.0016870498657226562
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.003187894821166992
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0024051666259765625
+ASTART number of expanded Nodes GREENGHOST:  38
+ASTART number of total Nodes GREENGHOST:  113
+ASTART computation time GREENGHOST:  0.0014548301696777344
+ASTART number of expanded Nodes REDGHOST:  52
+ASTART number of total Nodes REDGHOST:  153
+ASTART computation time REDGHOST:  0.0023469924926757812
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0026013851165771484
+ASTART number of expanded Nodes GREENGHOST:  34
+ASTART number of total Nodes GREENGHOST:  101
+ASTART computation time GREENGHOST:  0.0012159347534179688
+ASTART number of expanded Nodes REDGHOST:  48
+ASTART number of total Nodes REDGHOST:  142
+ASTART computation time REDGHOST:  0.0020592212677001953
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002662181854248047
+ASTART number of expanded Nodes GREENGHOST:  22
+ASTART number of total Nodes GREENGHOST:  65
+ASTART computation time GREENGHOST:  0.000453948974609375
+ASTART number of expanded Nodes REDGHOST:  41
+ASTART number of total Nodes REDGHOST:  122
+ASTART computation time REDGHOST:  0.0015528202056884766
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0026340484619140625
+ASTART number of expanded Nodes GREENGHOST:  20
+ASTART number of total Nodes GREENGHOST:  59
+ASTART computation time GREENGHOST:  0.0005500316619873047
+ASTART number of expanded Nodes REDGHOST:  38
+ASTART number of total Nodes REDGHOST:  113
+ASTART computation time REDGHOST:  0.001413106918334961
+ASTART number of expanded Nodes ORANGEGHOST:  52
+ASTART number of total Nodes ORANGEGHOST:  153
+ASTART computation time ORANGEGHOST:  0.002301931381225586
+ASTART number of expanded Nodes GREENGHOST:  19
+ASTART number of total Nodes GREENGHOST:  56
+ASTART computation time GREENGHOST:  0.0005140304565429688
+ASTART number of expanded Nodes REDGHOST:  34
+ASTART number of total Nodes REDGHOST:  101
+ASTART computation time REDGHOST:  0.0012199878692626953
+ASTART number of expanded Nodes ORANGEGHOST:  48
+ASTART number of total Nodes ORANGEGHOST:  142
+ASTART computation time ORANGEGHOST:  0.002053976058959961
+ASTART number of expanded Nodes GREENGHOST:  18
+ASTART number of total Nodes GREENGHOST:  53
+ASTART computation time GREENGHOST:  0.0004799365997314453
+ASTART number of expanded Nodes REDGHOST:  22
+ASTART number of total Nodes REDGHOST:  65
+ASTART computation time REDGHOST:  0.0005772113800048828
+ASTART number of expanded Nodes ORANGEGHOST:  41
+ASTART number of total Nodes ORANGEGHOST:  122
+ASTART computation time ORANGEGHOST:  0.0015859603881835938
+ASTART number of expanded Nodes GREENGHOST:  11
+ASTART number of total Nodes GREENGHOST:  32
+ASTART computation time GREENGHOST:  0.0002579689025878906
+ASTART number of expanded Nodes REDGHOST:  17
+ASTART number of total Nodes REDGHOST:  50
+ASTART computation time REDGHOST:  0.0003921985626220703
+ASTART number of expanded Nodes ORANGEGHOST:  32
+ASTART number of total Nodes ORANGEGHOST:  95
+ASTART computation time ORANGEGHOST:  0.0010411739349365234
+ASTART number of expanded Nodes GREENGHOST:  9
+ASTART number of total Nodes GREENGHOST:  26
+ASTART computation time GREENGHOST:  0.00021409988403320312
+ASTART number of expanded Nodes REDGHOST:  16
+ASTART number of total Nodes REDGHOST:  47
+ASTART computation time REDGHOST:  0.0003769397735595703
+ASTART number of expanded Nodes ORANGEGHOST:  27
+ASTART number of total Nodes ORANGEGHOST:  80
+ASTART computation time ORANGEGHOST:  0.0007917881011962891
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.00018525123596191406
+ASTART number of expanded Nodes REDGHOST:  15
+ASTART number of total Nodes REDGHOST:  44
+ASTART computation time REDGHOST:  0.0003478527069091797
+ASTART number of expanded Nodes ORANGEGHOST:  19
+ASTART number of total Nodes ORANGEGHOST:  56
+ASTART computation time ORANGEGHOST:  0.0004572868347167969
+ASTART number of expanded Nodes GREENGHOST:  5
+ASTART number of total Nodes GREENGHOST:  14
+ASTART computation time GREENGHOST:  0.00012493133544921875
+ASTART number of expanded Nodes REDGHOST:  9
+ASTART number of total Nodes REDGHOST:  26
+ASTART computation time REDGHOST:  0.00018095970153808594
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.00027179718017578125
+ASTART number of expanded Nodes GREENGHOST:  2
+ASTART number of total Nodes GREENGHOST:  5
+ASTART computation time GREENGHOST:  7.081031799316406e-05
+ASTART number of expanded Nodes REDGHOST:  5
+ASTART number of total Nodes REDGHOST:  14
+ASTART computation time REDGHOST:  0.00010704994201660156
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.00020813941955566406
+Thanks for playing
+You got  4 nomdots.
+Your time was: 9.24878215789795 seconds
+saving...
+
+<----> START The time is: 2023-06-24-18:00:01 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0014600753784179688
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.001239776611328125
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0012187957763671875
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.003645181655883789
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0026671886444091797
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002763032913208008
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0032629966735839844
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0024368762969970703
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0023949146270751953
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0035140514373779297
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0024280548095703125
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0024051666259765625
+ASTART number of expanded Nodes GREENGHOST:  52
+ASTART number of total Nodes GREENGHOST:  153
+ASTART computation time GREENGHOST:  0.002409219741821289
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.003070831298828125
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0023839473724365234
+ASTART number of expanded Nodes GREENGHOST:  48
+ASTART number of total Nodes GREENGHOST:  142
+ASTART computation time GREENGHOST:  0.0010118484497070312
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002079010009765625
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0018620491027832031
+Thanks for playing!
+Your score was: 1
+Your time was: 3.1487808227539062 seconds
+saving...
+<----> END The time is: 2023-06-24-18:00:01 <---->
+<----> START The time is: 2023-06-24-18:00:28 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.001329183578491211
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.001310110092163086
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.001352071762084961
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.002414703369140625
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0020799636840820312
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0014238357543945312
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.002145051956176758
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0023670196533203125
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.00249481201171875
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.004392862319946289
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0026922225952148438
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0025730133056640625
+ASTART number of expanded Nodes GREENGHOST:  52
+ASTART number of total Nodes GREENGHOST:  153
+ASTART computation time GREENGHOST:  0.0025000572204589844
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.003816843032836914
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0054781436920166016
+ASTART number of expanded Nodes GREENGHOST:  54
+ASTART number of total Nodes GREENGHOST:  159
+ASTART computation time GREENGHOST:  0.0042552947998046875
+ASTART number of expanded Nodes REDGHOST:  50
+ASTART number of total Nodes REDGHOST:  146
+ASTART computation time REDGHOST:  0.002170085906982422
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0017311573028564453
+ASTART number of expanded Nodes GREENGHOST:  37
+ASTART number of total Nodes GREENGHOST:  109
+ASTART computation time GREENGHOST:  0.0011227130889892578
+ASTART number of expanded Nodes REDGHOST:  39
+ASTART number of total Nodes REDGHOST:  116
+ASTART computation time REDGHOST:  0.0015022754669189453
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0010461807250976562
+ASTART number of expanded Nodes GREENGHOST:  25
+ASTART number of total Nodes GREENGHOST:  74
+ASTART computation time GREENGHOST:  0.0004820823669433594
+ASTART number of expanded Nodes REDGHOST:  34
+ASTART number of total Nodes REDGHOST:  101
+ASTART computation time REDGHOST:  0.0008652210235595703
+ASTART number of expanded Nodes ORANGEGHOST:  39
+ASTART number of total Nodes ORANGEGHOST:  116
+ASTART computation time ORANGEGHOST:  0.0010650157928466797
+ASTART number of expanded Nodes GREENGHOST:  17
+ASTART number of total Nodes GREENGHOST:  50
+ASTART computation time GREENGHOST:  0.000492095947265625
+ASTART number of expanded Nodes REDGHOST:  28
+ASTART number of total Nodes REDGHOST:  83
+ASTART computation time REDGHOST:  0.0007491111755371094
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0009508132934570312
+ASTART number of expanded Nodes GREENGHOST:  16
+ASTART number of total Nodes GREENGHOST:  47
+ASTART computation time GREENGHOST:  0.0002779960632324219
+ASTART number of expanded Nodes REDGHOST:  23
+ASTART number of total Nodes REDGHOST:  68
+ASTART computation time REDGHOST:  0.0004258155822753906
+ASTART number of expanded Nodes ORANGEGHOST:  35
+ASTART number of total Nodes ORANGEGHOST:  104
+ASTART computation time ORANGEGHOST:  0.0007998943328857422
+ASTART number of expanded Nodes GREENGHOST:  15
+ASTART number of total Nodes GREENGHOST:  44
+ASTART computation time GREENGHOST:  0.00041866302490234375
+ASTART number of expanded Nodes REDGHOST:  22
+ASTART number of total Nodes REDGHOST:  65
+ASTART computation time REDGHOST:  0.0006639957427978516
+ASTART number of expanded Nodes ORANGEGHOST:  33
+ASTART number of total Nodes ORANGEGHOST:  98
+ASTART computation time ORANGEGHOST:  0.001710653305053711
+ASTART number of expanded Nodes GREENGHOST:  14
+ASTART number of total Nodes GREENGHOST:  41
+ASTART computation time GREENGHOST:  0.000354766845703125
+ASTART number of expanded Nodes REDGHOST:  21
+ASTART number of total Nodes REDGHOST:  62
+ASTART computation time REDGHOST:  0.0005576610565185547
+ASTART number of expanded Nodes ORANGEGHOST:  28
+ASTART number of total Nodes ORANGEGHOST:  83
+ASTART computation time ORANGEGHOST:  0.0006520748138427734
+ASTART number of expanded Nodes GREENGHOST:  13
+ASTART number of total Nodes GREENGHOST:  38
+ASTART computation time GREENGHOST:  0.0004088878631591797
+ASTART number of expanded Nodes REDGHOST:  13
+ASTART number of total Nodes REDGHOST:  38
+ASTART computation time REDGHOST:  0.0002880096435546875
+ASTART number of expanded Nodes ORANGEGHOST:  23
+ASTART number of total Nodes ORANGEGHOST:  68
+ASTART computation time ORANGEGHOST:  0.0006449222564697266
+ASTART number of expanded Nodes GREENGHOST:  10
+ASTART number of total Nodes GREENGHOST:  29
+ASTART computation time GREENGHOST:  0.00017786026000976562
+ASTART number of expanded Nodes REDGHOST:  11
+ASTART number of total Nodes REDGHOST:  32
+ASTART computation time REDGHOST:  0.00016307830810546875
+ASTART number of expanded Nodes ORANGEGHOST:  22
+ASTART number of total Nodes ORANGEGHOST:  65
+ASTART computation time ORANGEGHOST:  0.0005629062652587891
+ASTART number of expanded Nodes GREENGHOST:  9
+ASTART number of total Nodes GREENGHOST:  26
+ASTART computation time GREENGHOST:  0.00023484230041503906
+ASTART number of expanded Nodes REDGHOST:  10
+ASTART number of total Nodes REDGHOST:  29
+ASTART computation time REDGHOST:  0.0002510547637939453
+ASTART number of expanded Nodes ORANGEGHOST:  21
+ASTART number of total Nodes ORANGEGHOST:  62
+ASTART computation time ORANGEGHOST:  0.0005681514739990234
+ASTART number of expanded Nodes GREENGHOST:  5
+ASTART number of total Nodes GREENGHOST:  14
+ASTART computation time GREENGHOST:  0.00012493133544921875
+ASTART number of expanded Nodes REDGHOST:  8
+ASTART number of total Nodes REDGHOST:  23
+ASTART computation time REDGHOST:  0.0001499652862548828
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.00024509429931640625
+ASTART number of expanded Nodes GREENGHOST:  4
+ASTART number of total Nodes GREENGHOST:  11
+ASTART computation time GREENGHOST:  0.00010228157043457031
+ASTART number of expanded Nodes REDGHOST:  5
+ASTART number of total Nodes REDGHOST:  14
+ASTART computation time REDGHOST:  0.0001289844512939453
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.00020313262939453125
+ASTART number of expanded Nodes GREENGHOST:  3
+ASTART number of total Nodes GREENGHOST:  8
+ASTART computation time GREENGHOST:  8.678436279296875e-05
+ASTART number of expanded Nodes REDGHOST:  4
+ASTART number of total Nodes REDGHOST:  11
+ASTART computation time REDGHOST:  7.486343383789062e-05
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.00018787384033203125
+ASTART number of expanded Nodes GREENGHOST:  2
+ASTART number of total Nodes GREENGHOST:  5
+ASTART computation time GREENGHOST:  4.887580871582031e-05
+ASTART number of expanded Nodes REDGHOST:  3
+ASTART number of total Nodes REDGHOST:  8
+ASTART computation time REDGHOST:  4.410743713378906e-05
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.00010704994201660156
+Thanks for playing
+You got  5 nomdots.
+Your time was: 9.63067626953125 seconds
+saving...
+
+<----> START The time is: 2023-06-24-18:00:51 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0014281272888183594
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.001444101333618164
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0013701915740966797
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0034279823303222656
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002598285675048828
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0023190975189208984
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0034339427947998047
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002619028091430664
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002363920211791992
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.003390073776245117
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002666950225830078
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0023450851440429688
+ASTART number of expanded Nodes GREENGHOST:  52
+ASTART number of total Nodes GREENGHOST:  153
+ASTART computation time GREENGHOST:  0.0023801326751708984
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0029299259185791016
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0023238658905029297
+ASTART number of expanded Nodes GREENGHOST:  48
+ASTART number of total Nodes GREENGHOST:  142
+ASTART computation time GREENGHOST:  0.0020842552185058594
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002997159957885742
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0024268627166748047
+ASTART number of expanded Nodes GREENGHOST:  41
+ASTART number of total Nodes GREENGHOST:  122
+ASTART computation time GREENGHOST:  0.001628875732421875
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0031239986419677734
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0023288726806640625
+ASTART number of expanded Nodes GREENGHOST:  38
+ASTART number of total Nodes GREENGHOST:  113
+ASTART computation time GREENGHOST:  0.0014379024505615234
+ASTART number of expanded Nodes REDGHOST:  52
+ASTART number of total Nodes REDGHOST:  153
+ASTART computation time REDGHOST:  0.0023221969604492188
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002508878707885742
+ASTART number of expanded Nodes GREENGHOST:  34
+ASTART number of total Nodes GREENGHOST:  101
+ASTART computation time GREENGHOST:  0.0011959075927734375
+ASTART number of expanded Nodes REDGHOST:  48
+ASTART number of total Nodes REDGHOST:  142
+ASTART computation time REDGHOST:  0.0020139217376708984
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002650022506713867
+ASTART number of expanded Nodes GREENGHOST:  22
+ASTART number of total Nodes GREENGHOST:  65
+ASTART computation time GREENGHOST:  0.0003771781921386719
+ASTART number of expanded Nodes REDGHOST:  41
+ASTART number of total Nodes REDGHOST:  122
+ASTART computation time REDGHOST:  0.0009641647338867188
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0020160675048828125
+ASTART number of expanded Nodes GREENGHOST:  20
+ASTART number of total Nodes GREENGHOST:  59
+ASTART computation time GREENGHOST:  0.0005550384521484375
+ASTART number of expanded Nodes REDGHOST:  38
+ASTART number of total Nodes REDGHOST:  113
+ASTART computation time REDGHOST:  0.0013611316680908203
+ASTART number of expanded Nodes ORANGEGHOST:  52
+ASTART number of total Nodes ORANGEGHOST:  153
+ASTART computation time ORANGEGHOST:  0.0023109912872314453
+ASTART number of expanded Nodes GREENGHOST:  19
+ASTART number of total Nodes GREENGHOST:  56
+ASTART computation time GREENGHOST:  0.0005090236663818359
+ASTART number of expanded Nodes REDGHOST:  34
+ASTART number of total Nodes REDGHOST:  101
+ASTART computation time REDGHOST:  0.0011410713195800781
+ASTART number of expanded Nodes ORANGEGHOST:  48
+ASTART number of total Nodes ORANGEGHOST:  142
+ASTART computation time ORANGEGHOST:  0.001997709274291992
+ASTART number of expanded Nodes GREENGHOST:  18
+ASTART number of total Nodes GREENGHOST:  53
+ASTART computation time GREENGHOST:  0.0004742145538330078
+ASTART number of expanded Nodes REDGHOST:  22
+ASTART number of total Nodes REDGHOST:  65
+ASTART computation time REDGHOST:  0.0005671977996826172
+ASTART number of expanded Nodes ORANGEGHOST:  41
+ASTART number of total Nodes ORANGEGHOST:  122
+ASTART computation time ORANGEGHOST:  0.001529693603515625
+ASTART number of expanded Nodes GREENGHOST:  15
+ASTART number of total Nodes GREENGHOST:  44
+ASTART computation time GREENGHOST:  0.0003800392150878906
+ASTART number of expanded Nodes REDGHOST:  20
+ASTART number of total Nodes REDGHOST:  59
+ASTART computation time REDGHOST:  0.0004930496215820312
+ASTART number of expanded Nodes ORANGEGHOST:  38
+ASTART number of total Nodes ORANGEGHOST:  113
+ASTART computation time ORANGEGHOST:  0.0013439655303955078
+ASTART number of expanded Nodes GREENGHOST:  11
+ASTART number of total Nodes GREENGHOST:  32
+ASTART computation time GREENGHOST:  0.0002639293670654297
+ASTART number of expanded Nodes REDGHOST:  19
+ASTART number of total Nodes REDGHOST:  56
+ASTART computation time REDGHOST:  0.0004658699035644531
+ASTART number of expanded Nodes ORANGEGHOST:  34
+ASTART number of total Nodes ORANGEGHOST:  101
+ASTART computation time ORANGEGHOST:  0.001127004623413086
+ASTART number of expanded Nodes GREENGHOST:  9
+ASTART number of total Nodes GREENGHOST:  26
+ASTART computation time GREENGHOST:  0.0002110004425048828
+ASTART number of expanded Nodes REDGHOST:  18
+ASTART number of total Nodes REDGHOST:  53
+ASTART computation time REDGHOST:  0.0004379749298095703
+ASTART number of expanded Nodes ORANGEGHOST:  22
+ASTART number of total Nodes ORANGEGHOST:  65
+ASTART computation time ORANGEGHOST:  0.0005590915679931641
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.00018787384033203125
+ASTART number of expanded Nodes REDGHOST:  15
+ASTART number of total Nodes REDGHOST:  44
+ASTART computation time REDGHOST:  0.00032401084899902344
+ASTART number of expanded Nodes ORANGEGHOST:  20
+ASTART number of total Nodes ORANGEGHOST:  59
+ASTART computation time ORANGEGHOST:  0.0004799365997314453
+ASTART number of expanded Nodes GREENGHOST:  5
+ASTART number of total Nodes GREENGHOST:  14
+ASTART computation time GREENGHOST:  9.107589721679688e-05
+ASTART number of expanded Nodes REDGHOST:  11
+ASTART number of total Nodes REDGHOST:  32
+ASTART computation time REDGHOST:  0.00016307830810546875
+ASTART number of expanded Nodes ORANGEGHOST:  19
+ASTART number of total Nodes ORANGEGHOST:  56
+ASTART computation time ORANGEGHOST:  0.0003190040588378906
+ASTART number of expanded Nodes GREENGHOST:  4
+ASTART number of total Nodes GREENGHOST:  11
+ASTART computation time GREENGHOST:  7.987022399902344e-05
+ASTART number of expanded Nodes REDGHOST:  9
+ASTART number of total Nodes REDGHOST:  26
+ASTART computation time REDGHOST:  0.00011801719665527344
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.00030422210693359375
+ASTART number of expanded Nodes GREENGHOST:  3
+ASTART number of total Nodes GREENGHOST:  8
+ASTART computation time GREENGHOST:  0.00010609626770019531
+ASTART number of expanded Nodes REDGHOST:  8
+ASTART number of total Nodes REDGHOST:  23
+ASTART computation time REDGHOST:  0.00013208389282226562
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  44
+ASTART computation time ORANGEGHOST:  0.000247955322265625
+Thanks for playing!
+Your score was: 1
+Your time was: 10.107017993927002 seconds
+saving...
+<----> END The time is: 2023-06-24-18:00:51 <---->
+<----> START The time is: 2023-06-24-18:01:19 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.001522064208984375
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.00144195556640625
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.001516580581665039
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.002646207809448242
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002725839614868164
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002233743667602539
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.003381013870239258
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002440929412841797
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0023717880249023438
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0035469532012939453
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002722024917602539
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0023479461669921875
+ASTART number of expanded Nodes GREENGHOST:  52
+ASTART number of total Nodes GREENGHOST:  153
+ASTART computation time GREENGHOST:  0.0025811195373535156
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002868175506591797
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002496957778930664
+ASTART number of expanded Nodes GREENGHOST:  48
+ASTART number of total Nodes GREENGHOST:  142
+ASTART computation time GREENGHOST:  0.00148773193359375
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0026018619537353516
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002481222152709961
+ASTART number of expanded Nodes GREENGHOST:  41
+ASTART number of total Nodes GREENGHOST:  122
+ASTART computation time GREENGHOST:  0.0009870529174804688
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002025127410888672
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0019919872283935547
+ASTART number of expanded Nodes GREENGHOST:  38
+ASTART number of total Nodes GREENGHOST:  113
+ASTART computation time GREENGHOST:  0.0011069774627685547
+ASTART number of expanded Nodes REDGHOST:  52
+ASTART number of total Nodes REDGHOST:  153
+ASTART computation time REDGHOST:  0.0019388198852539062
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0022640228271484375
+ASTART number of expanded Nodes GREENGHOST:  34
+ASTART number of total Nodes GREENGHOST:  101
+ASTART computation time GREENGHOST:  0.0011839866638183594
+ASTART number of expanded Nodes REDGHOST:  48
+ASTART number of total Nodes REDGHOST:  142
+ASTART computation time REDGHOST:  0.0018558502197265625
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002354860305786133
+ASTART number of expanded Nodes GREENGHOST:  22
+ASTART number of total Nodes GREENGHOST:  65
+ASTART computation time GREENGHOST:  0.0006289482116699219
+ASTART number of expanded Nodes REDGHOST:  41
+ASTART number of total Nodes REDGHOST:  122
+ASTART computation time REDGHOST:  0.001567840576171875
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0025758743286132812
+ASTART number of expanded Nodes GREENGHOST:  20
+ASTART number of total Nodes GREENGHOST:  59
+ASTART computation time GREENGHOST:  0.0013208389282226562
+ASTART number of expanded Nodes REDGHOST:  38
+ASTART number of total Nodes REDGHOST:  113
+ASTART computation time REDGHOST:  0.0020530223846435547
+ASTART number of expanded Nodes ORANGEGHOST:  52
+ASTART number of total Nodes ORANGEGHOST:  153
+ASTART computation time ORANGEGHOST:  0.001909017562866211
+ASTART number of expanded Nodes GREENGHOST:  19
+ASTART number of total Nodes GREENGHOST:  56
+ASTART computation time GREENGHOST:  0.001190185546875
+ASTART number of expanded Nodes REDGHOST:  34
+ASTART number of total Nodes REDGHOST:  101
+ASTART computation time REDGHOST:  0.0013821125030517578
+ASTART number of expanded Nodes ORANGEGHOST:  48
+ASTART number of total Nodes ORANGEGHOST:  142
+ASTART computation time ORANGEGHOST:  0.0017268657684326172
+ASTART number of expanded Nodes GREENGHOST:  18
+ASTART number of total Nodes GREENGHOST:  53
+ASTART computation time GREENGHOST:  0.0004761219024658203
+ASTART number of expanded Nodes REDGHOST:  22
+ASTART number of total Nodes REDGHOST:  65
+ASTART computation time REDGHOST:  0.0005702972412109375
+ASTART number of expanded Nodes ORANGEGHOST:  41
+ASTART number of total Nodes ORANGEGHOST:  122
+ASTART computation time ORANGEGHOST:  0.0036079883575439453
+ASTART number of expanded Nodes GREENGHOST:  15
+ASTART number of total Nodes GREENGHOST:  44
+ASTART computation time GREENGHOST:  0.0005230903625488281
+ASTART number of expanded Nodes REDGHOST:  20
+ASTART number of total Nodes REDGHOST:  59
+ASTART computation time REDGHOST:  0.0005540847778320312
+ASTART number of expanded Nodes ORANGEGHOST:  38
+ASTART number of total Nodes ORANGEGHOST:  113
+ASTART computation time ORANGEGHOST:  0.0010530948638916016
+ASTART number of expanded Nodes GREENGHOST:  11
+ASTART number of total Nodes GREENGHOST:  32
+ASTART computation time GREENGHOST:  0.00015878677368164062
+ASTART number of expanded Nodes REDGHOST:  19
+ASTART number of total Nodes REDGHOST:  56
+ASTART computation time REDGHOST:  0.0002770423889160156
+ASTART number of expanded Nodes ORANGEGHOST:  34
+ASTART number of total Nodes ORANGEGHOST:  101
+ASTART computation time ORANGEGHOST:  0.0007202625274658203
+ASTART number of expanded Nodes GREENGHOST:  10
+ASTART number of total Nodes GREENGHOST:  29
+ASTART computation time GREENGHOST:  0.00016498565673828125
+ASTART number of expanded Nodes REDGHOST:  23
+ASTART number of total Nodes REDGHOST:  68
+ASTART computation time REDGHOST:  0.0004317760467529297
+ASTART number of expanded Nodes ORANGEGHOST:  27
+ASTART number of total Nodes ORANGEGHOST:  80
+ASTART computation time ORANGEGHOST:  0.0005438327789306641
+ASTART number of expanded Nodes GREENGHOST:  10
+ASTART number of total Nodes GREENGHOST:  29
+ASTART computation time GREENGHOST:  0.00017595291137695312
+ASTART number of expanded Nodes REDGHOST:  14
+ASTART number of total Nodes REDGHOST:  41
+ASTART computation time REDGHOST:  0.00021791458129882812
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.00032711029052734375
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.00018596649169921875
+ASTART number of expanded Nodes REDGHOST:  9
+ASTART number of total Nodes REDGHOST:  26
+ASTART computation time REDGHOST:  0.00017309188842773438
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  41
+ASTART computation time ORANGEGHOST:  0.0002837181091308594
+ASTART number of expanded Nodes GREENGHOST:  7
+ASTART number of total Nodes GREENGHOST:  20
+ASTART computation time GREENGHOST:  0.00016307830810546875
+ASTART number of expanded Nodes REDGHOST:  6
+ASTART number of total Nodes REDGHOST:  17
+ASTART computation time REDGHOST:  0.00010085105895996094
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.0002589225769042969
+ASTART number of expanded Nodes GREENGHOST:  7
+ASTART number of total Nodes GREENGHOST:  20
+ASTART computation time GREENGHOST:  0.00016307830810546875
+ASTART number of expanded Nodes REDGHOST:  6
+ASTART number of total Nodes REDGHOST:  17
+ASTART computation time REDGHOST:  0.00010013580322265625
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.00020599365234375
+ASTART number of expanded Nodes GREENGHOST:  7
+ASTART number of total Nodes GREENGHOST:  20
+ASTART computation time GREENGHOST:  0.0001647472381591797
+ASTART number of expanded Nodes REDGHOST:  6
+ASTART number of total Nodes REDGHOST:  17
+ASTART computation time REDGHOST:  0.00010514259338378906
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.00021409988403320312
+ASTART number of expanded Nodes GREENGHOST:  6
+ASTART number of total Nodes GREENGHOST:  17
+ASTART computation time GREENGHOST:  0.0001442432403564453
+ASTART number of expanded Nodes REDGHOST:  5
+ASTART number of total Nodes REDGHOST:  14
+ASTART computation time REDGHOST:  8.511543273925781e-05
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.00014591217041015625
+ASTART number of expanded Nodes GREENGHOST:  7
+ASTART number of total Nodes GREENGHOST:  20
+ASTART computation time GREENGHOST:  0.0002620220184326172
+ASTART number of expanded Nodes REDGHOST:  6
+ASTART number of total Nodes REDGHOST:  17
+ASTART computation time REDGHOST:  0.0002791881561279297
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.000469207763671875
+ASTART number of expanded Nodes GREENGHOST:  6
+ASTART number of total Nodes GREENGHOST:  17
+ASTART computation time GREENGHOST:  0.0001480579376220703
+ASTART number of expanded Nodes REDGHOST:  5
+ASTART number of total Nodes REDGHOST:  14
+ASTART computation time REDGHOST:  8.296966552734375e-05
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  0.00013589859008789062
+ASTART number of expanded Nodes GREENGHOST:  5
+ASTART number of total Nodes GREENGHOST:  14
+ASTART computation time GREENGHOST:  0.00011801719665527344
+ASTART number of expanded Nodes REDGHOST:  3
+ASTART number of total Nodes REDGHOST:  8
+ASTART computation time REDGHOST:  5.0067901611328125e-05
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  0.0001220703125
+ASTART number of expanded Nodes GREENGHOST:  3
+ASTART number of total Nodes GREENGHOST:  8
+ASTART computation time GREENGHOST:  0.00010395050048828125
+ASTART number of expanded Nodes REDGHOST:  2
+ASTART number of total Nodes REDGHOST:  5
+ASTART computation time REDGHOST:  3.600120544433594e-05
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  0.00010418891906738281
+Thanks for playing
+You got  7 nomdots.
+Your time was: 13.110488891601562 seconds
+saving...
+
+<----> START The time is: 2023-06-24-18:01:51 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0012447834014892578
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0012087821960449219
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0011410713195800781
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.003403902053833008
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0025839805603027344
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002398967742919922
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0034279823303222656
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0025517940521240234
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0023927688598632812
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0034329891204833984
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002658843994140625
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0023517608642578125
+ASTART number of expanded Nodes GREENGHOST:  52
+ASTART number of total Nodes GREENGHOST:  153
+ASTART computation time GREENGHOST:  0.002424955368041992
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002635955810546875
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002360105514526367
+ASTART number of expanded Nodes GREENGHOST:  48
+ASTART number of total Nodes GREENGHOST:  142
+ASTART computation time GREENGHOST:  0.0020842552185058594
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0028159618377685547
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0025310516357421875
+ASTART number of expanded Nodes GREENGHOST:  41
+ASTART number of total Nodes GREENGHOST:  122
+ASTART computation time GREENGHOST:  0.0016622543334960938
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002804994583129883
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002343893051147461
+ASTART number of expanded Nodes GREENGHOST:  38
+ASTART number of total Nodes GREENGHOST:  113
+ASTART computation time GREENGHOST:  0.0008687973022460938
+ASTART number of expanded Nodes REDGHOST:  52
+ASTART number of total Nodes REDGHOST:  153
+ASTART computation time REDGHOST:  0.0013918876647949219
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0020868778228759766
+ASTART number of expanded Nodes GREENGHOST:  34
+ASTART number of total Nodes GREENGHOST:  101
+ASTART computation time GREENGHOST:  0.0011887550354003906
+ASTART number of expanded Nodes REDGHOST:  48
+ASTART number of total Nodes REDGHOST:  142
+ASTART computation time REDGHOST:  0.00203704833984375
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0024039745330810547
+ASTART number of expanded Nodes GREENGHOST:  22
+ASTART number of total Nodes GREENGHOST:  65
+ASTART computation time GREENGHOST:  0.0006339550018310547
+ASTART number of expanded Nodes REDGHOST:  41
+ASTART number of total Nodes REDGHOST:  122
+ASTART computation time REDGHOST:  0.0015499591827392578
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0027730464935302734
+ASTART number of expanded Nodes GREENGHOST:  20
+ASTART number of total Nodes GREENGHOST:  59
+ASTART computation time GREENGHOST:  0.0005507469177246094
+ASTART number of expanded Nodes REDGHOST:  38
+ASTART number of total Nodes REDGHOST:  113
+ASTART computation time REDGHOST:  0.0013527870178222656
+ASTART number of expanded Nodes ORANGEGHOST:  52
+ASTART number of total Nodes ORANGEGHOST:  153
+ASTART computation time ORANGEGHOST:  0.002415180206298828
+ASTART number of expanded Nodes GREENGHOST:  19
+ASTART number of total Nodes GREENGHOST:  56
+ASTART computation time GREENGHOST:  0.0005090236663818359
+ASTART number of expanded Nodes REDGHOST:  34
+ASTART number of total Nodes REDGHOST:  101
+ASTART computation time REDGHOST:  0.0011398792266845703
+ASTART number of expanded Nodes ORANGEGHOST:  48
+ASTART number of total Nodes ORANGEGHOST:  142
+ASTART computation time ORANGEGHOST:  0.0019021034240722656
+ASTART number of expanded Nodes GREENGHOST:  18
+ASTART number of total Nodes GREENGHOST:  53
+ASTART computation time GREENGHOST:  0.0002009868621826172
+ASTART number of expanded Nodes REDGHOST:  22
+ASTART number of total Nodes REDGHOST:  65
+ASTART computation time REDGHOST:  0.00023412704467773438
+ASTART number of expanded Nodes ORANGEGHOST:  41
+ASTART number of total Nodes ORANGEGHOST:  122
+ASTART computation time ORANGEGHOST:  0.0006220340728759766
+ASTART number of expanded Nodes GREENGHOST:  15
+ASTART number of total Nodes GREENGHOST:  44
+ASTART computation time GREENGHOST:  0.0003898143768310547
+ASTART number of expanded Nodes REDGHOST:  20
+ASTART number of total Nodes REDGHOST:  59
+ASTART computation time REDGHOST:  0.0004999637603759766
+ASTART number of expanded Nodes ORANGEGHOST:  38
+ASTART number of total Nodes ORANGEGHOST:  113
+ASTART computation time ORANGEGHOST:  0.0013649463653564453
+ASTART number of expanded Nodes GREENGHOST:  11
+ASTART number of total Nodes GREENGHOST:  32
+ASTART computation time GREENGHOST:  0.00026702880859375
+ASTART number of expanded Nodes REDGHOST:  19
+ASTART number of total Nodes REDGHOST:  56
+ASTART computation time REDGHOST:  0.00046896934509277344
+ASTART number of expanded Nodes ORANGEGHOST:  34
+ASTART number of total Nodes ORANGEGHOST:  101
+ASTART computation time ORANGEGHOST:  0.0011360645294189453
+ASTART number of expanded Nodes GREENGHOST:  9
+ASTART number of total Nodes GREENGHOST:  26
+ASTART computation time GREENGHOST:  0.00020885467529296875
+ASTART number of expanded Nodes REDGHOST:  18
+ASTART number of total Nodes REDGHOST:  53
+ASTART computation time REDGHOST:  0.00043487548828125
+ASTART number of expanded Nodes ORANGEGHOST:  22
+ASTART number of total Nodes ORANGEGHOST:  65
+ASTART computation time ORANGEGHOST:  0.0005557537078857422
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.00018286705017089844
+ASTART number of expanded Nodes REDGHOST:  15
+ASTART number of total Nodes REDGHOST:  44
+ASTART computation time REDGHOST:  0.0003256797790527344
+ASTART number of expanded Nodes ORANGEGHOST:  20
+ASTART number of total Nodes ORANGEGHOST:  59
+ASTART computation time ORANGEGHOST:  0.0004868507385253906
+ASTART number of expanded Nodes GREENGHOST:  5
+ASTART number of total Nodes GREENGHOST:  14
+ASTART computation time GREENGHOST:  0.00012612342834472656
+ASTART number of expanded Nodes REDGHOST:  11
+ASTART number of total Nodes REDGHOST:  32
+ASTART computation time REDGHOST:  0.00022029876708984375
+ASTART number of expanded Nodes ORANGEGHOST:  19
+ASTART number of total Nodes ORANGEGHOST:  56
+ASTART computation time ORANGEGHOST:  0.0004572868347167969
+ASTART number of expanded Nodes GREENGHOST:  4
+ASTART number of total Nodes GREENGHOST:  11
+ASTART computation time GREENGHOST:  0.000102996826171875
+ASTART number of expanded Nodes REDGHOST:  9
+ASTART number of total Nodes REDGHOST:  26
+ASTART computation time REDGHOST:  0.00017309188842773438
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.0004191398620605469
+ASTART number of expanded Nodes GREENGHOST:  3
+ASTART number of total Nodes GREENGHOST:  8
+ASTART computation time GREENGHOST:  0.00011491775512695312
+ASTART number of expanded Nodes REDGHOST:  8
+ASTART number of total Nodes REDGHOST:  23
+ASTART computation time REDGHOST:  0.00017905235290527344
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  44
+ASTART computation time ORANGEGHOST:  0.0003650188446044922
+ASTART number of expanded Nodes GREENGHOST:  2
+ASTART number of total Nodes GREENGHOST:  5
+ASTART computation time GREENGHOST:  6.389617919921875e-05
+ASTART number of expanded Nodes REDGHOST:  5
+ASTART number of total Nodes REDGHOST:  14
+ASTART computation time REDGHOST:  9.393692016601562e-05
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  0.0002129077911376953
+ASTART number of expanded Nodes GREENGHOST:  2
+ASTART number of total Nodes GREENGHOST:  5
+ASTART computation time GREENGHOST:  6.985664367675781e-05
+ASTART number of expanded Nodes REDGHOST:  5
+ASTART number of total Nodes REDGHOST:  14
+ASTART computation time REDGHOST:  0.00011610984802246094
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.000270843505859375
+Thanks for playing
+You got  2 nomdots.
+Your time was: 11.252246856689453 seconds
+saving...
+
+<----> START The time is: 2023-06-24-18:02:25 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.10.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.002107858657836914
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002029895782470703
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.001566171646118164
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0031359195709228516
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0023899078369140625
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002361774444580078
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.003692150115966797
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002789020538330078
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0037810802459716797
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0034351348876953125
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002363920211791992
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002363920211791992
+ASTART number of expanded Nodes GREENGHOST:  52
+ASTART number of total Nodes GREENGHOST:  153
+ASTART computation time GREENGHOST:  0.0027036666870117188
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002973794937133789
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002792835235595703
+ASTART number of expanded Nodes GREENGHOST:  48
+ASTART number of total Nodes GREENGHOST:  142
+ASTART computation time GREENGHOST:  0.0021152496337890625
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.003014087677001953
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002499103546142578
+ASTART number of expanded Nodes GREENGHOST:  41
+ASTART number of total Nodes GREENGHOST:  122
+ASTART computation time GREENGHOST:  0.0017061233520507812
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0031211376190185547
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0024309158325195312
+ASTART number of expanded Nodes GREENGHOST:  38
+ASTART number of total Nodes GREENGHOST:  113
+ASTART computation time GREENGHOST:  0.0014531612396240234
+ASTART number of expanded Nodes REDGHOST:  52
+ASTART number of total Nodes REDGHOST:  153
+ASTART computation time REDGHOST:  0.0023720264434814453
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002611875534057617
+ASTART number of expanded Nodes GREENGHOST:  34
+ASTART number of total Nodes GREENGHOST:  101
+ASTART computation time GREENGHOST:  0.001310110092163086
+ASTART number of expanded Nodes REDGHOST:  48
+ASTART number of total Nodes REDGHOST:  142
+ASTART computation time REDGHOST:  0.002051115036010742
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.002549886703491211
+ASTART number of expanded Nodes GREENGHOST:  22
+ASTART number of total Nodes GREENGHOST:  65
+ASTART computation time GREENGHOST:  0.0006389617919921875
+ASTART number of expanded Nodes REDGHOST:  41
+ASTART number of total Nodes REDGHOST:  122
+ASTART computation time REDGHOST:  0.0017473697662353516
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0028989315032958984
+ASTART number of expanded Nodes GREENGHOST:  20
+ASTART number of total Nodes GREENGHOST:  59
+ASTART computation time GREENGHOST:  0.0005507469177246094
+ASTART number of expanded Nodes REDGHOST:  38
+ASTART number of total Nodes REDGHOST:  113
+ASTART computation time REDGHOST:  0.0013997554779052734
+ASTART number of expanded Nodes ORANGEGHOST:  52
+ASTART number of total Nodes ORANGEGHOST:  153
+ASTART computation time ORANGEGHOST:  0.0022649765014648438
+ASTART number of expanded Nodes GREENGHOST:  19
+ASTART number of total Nodes GREENGHOST:  56
+ASTART computation time GREENGHOST:  0.0005059242248535156
+ASTART number of expanded Nodes REDGHOST:  34
+ASTART number of total Nodes REDGHOST:  101
+ASTART computation time REDGHOST:  0.001280069351196289
+ASTART number of expanded Nodes ORANGEGHOST:  48
+ASTART number of total Nodes ORANGEGHOST:  142
+ASTART computation time ORANGEGHOST:  0.002028942108154297
+ASTART number of expanded Nodes GREENGHOST:  18
+ASTART number of total Nodes GREENGHOST:  53
+ASTART computation time GREENGHOST:  0.000492095947265625
+ASTART number of expanded Nodes REDGHOST:  22
+ASTART number of total Nodes REDGHOST:  65
+ASTART computation time REDGHOST:  0.0005788803100585938
+ASTART number of expanded Nodes ORANGEGHOST:  41
+ASTART number of total Nodes ORANGEGHOST:  122
+ASTART computation time ORANGEGHOST:  0.0015451908111572266
+ASTART number of expanded Nodes GREENGHOST:  15
+ASTART number of total Nodes GREENGHOST:  44
+ASTART computation time GREENGHOST:  0.0003762245178222656
+ASTART number of expanded Nodes REDGHOST:  20
+ASTART number of total Nodes REDGHOST:  59
+ASTART computation time REDGHOST:  0.000492095947265625
+ASTART number of expanded Nodes ORANGEGHOST:  38
+ASTART number of total Nodes ORANGEGHOST:  113
+ASTART computation time ORANGEGHOST:  0.0013811588287353516
+ASTART number of expanded Nodes GREENGHOST:  11
+ASTART number of total Nodes GREENGHOST:  32
+ASTART computation time GREENGHOST:  0.00018596649169921875
+ASTART number of expanded Nodes REDGHOST:  19
+ASTART number of total Nodes REDGHOST:  56
+ASTART computation time REDGHOST:  0.00032711029052734375
+ASTART number of expanded Nodes ORANGEGHOST:  34
+ASTART number of total Nodes ORANGEGHOST:  101
+ASTART computation time ORANGEGHOST:  0.0008189678192138672
+ASTART number of expanded Nodes GREENGHOST:  9
+ASTART number of total Nodes GREENGHOST:  26
+ASTART computation time GREENGHOST:  0.00021409988403320312
+ASTART number of expanded Nodes REDGHOST:  18
+ASTART number of total Nodes REDGHOST:  53
+ASTART computation time REDGHOST:  0.0004868507385253906
+ASTART number of expanded Nodes ORANGEGHOST:  22
+ASTART number of total Nodes ORANGEGHOST:  65
+ASTART computation time ORANGEGHOST:  0.0006439685821533203
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.0001628398895263672
+ASTART number of expanded Nodes REDGHOST:  15
+ASTART number of total Nodes REDGHOST:  44
+ASTART computation time REDGHOST:  0.0002529621124267578
+ASTART number of expanded Nodes ORANGEGHOST:  20
+ASTART number of total Nodes ORANGEGHOST:  59
+ASTART computation time ORANGEGHOST:  0.0003972053527832031
+ASTART number of expanded Nodes GREENGHOST:  5
+ASTART number of total Nodes GREENGHOST:  14
+ASTART computation time GREENGHOST:  0.0001380443572998047
+ASTART number of expanded Nodes REDGHOST:  11
+ASTART number of total Nodes REDGHOST:  32
+ASTART computation time REDGHOST:  0.00024390220642089844
+ASTART number of expanded Nodes ORANGEGHOST:  19
+ASTART number of total Nodes ORANGEGHOST:  56
+ASTART computation time ORANGEGHOST:  0.0004489421844482422
+ASTART number of expanded Nodes GREENGHOST:  4
+ASTART number of total Nodes GREENGHOST:  11
+ASTART computation time GREENGHOST:  6.794929504394531e-05
+ASTART number of expanded Nodes REDGHOST:  9
+ASTART number of total Nodes REDGHOST:  26
+ASTART computation time REDGHOST:  0.00012993812561035156
+ASTART number of expanded Nodes ORANGEGHOST:  18
+ASTART number of total Nodes ORANGEGHOST:  53
+ASTART computation time ORANGEGHOST:  0.0002701282501220703
+ASTART number of expanded Nodes GREENGHOST:  3
+ASTART number of total Nodes GREENGHOST:  8
+ASTART computation time GREENGHOST:  6.29425048828125e-05
+ASTART number of expanded Nodes REDGHOST:  8
+ASTART number of total Nodes REDGHOST:  23
+ASTART computation time REDGHOST:  0.00010800361633300781
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  44
+ASTART computation time ORANGEGHOST:  0.00023698806762695312
+ASTART number of expanded Nodes GREENGHOST:  2
+ASTART number of total Nodes GREENGHOST:  5
+ASTART computation time GREENGHOST:  3.2901763916015625e-05
+ASTART number of expanded Nodes REDGHOST:  5
+ASTART number of total Nodes REDGHOST:  14
+ASTART computation time REDGHOST:  4.506111145019531e-05
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  9.703636169433594e-05
+Thanks for playing
+You got  1 nomdots.
+Your time was: 10.564535140991211 seconds
+saving...
+
+<----> START The time is: 2024-10-07-17:13:10 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.11.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0008091926574707031
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0006690025329589844
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0006840229034423828
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0021619796752929688
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.001954793930053711
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0014090538024902344
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.001455068588256836
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0015032291412353516
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0014958381652832031
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0012619495391845703
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0011861324310302734
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0011768341064453125
+ASTART number of expanded Nodes GREENGHOST:  52
+ASTART number of total Nodes GREENGHOST:  153
+ASTART computation time GREENGHOST:  0.0014219284057617188
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0019881725311279297
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0015940666198730469
+ASTART number of expanded Nodes GREENGHOST:  48
+ASTART number of total Nodes GREENGHOST:  142
+ASTART computation time GREENGHOST:  0.0012729167938232422
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0019609928131103516
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0016450881958007812
+ASTART number of expanded Nodes GREENGHOST:  41
+ASTART number of total Nodes GREENGHOST:  122
+ASTART computation time GREENGHOST:  0.0006959438323974609
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0014729499816894531
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0014040470123291016
+ASTART number of expanded Nodes GREENGHOST:  38
+ASTART number of total Nodes GREENGHOST:  113
+ASTART computation time GREENGHOST:  0.0008931159973144531
+ASTART number of expanded Nodes REDGHOST:  52
+ASTART number of total Nodes REDGHOST:  153
+ASTART computation time REDGHOST:  0.0014731884002685547
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0018870830535888672
+ASTART number of expanded Nodes GREENGHOST:  34
+ASTART number of total Nodes GREENGHOST:  101
+ASTART computation time GREENGHOST:  0.0009238719940185547
+ASTART number of expanded Nodes REDGHOST:  48
+ASTART number of total Nodes REDGHOST:  142
+ASTART computation time REDGHOST:  0.0012431144714355469
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0019519329071044922
+ASTART number of expanded Nodes GREENGHOST:  22
+ASTART number of total Nodes GREENGHOST:  65
+ASTART computation time GREENGHOST:  0.00020241737365722656
+ASTART number of expanded Nodes REDGHOST:  41
+ASTART number of total Nodes REDGHOST:  122
+ASTART computation time REDGHOST:  0.0006330013275146484
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.001199960708618164
+ASTART number of expanded Nodes GREENGHOST:  25
+ASTART number of total Nodes GREENGHOST:  74
+ASTART computation time GREENGHOST:  0.0004730224609375
+ASTART number of expanded Nodes REDGHOST:  44
+ASTART number of total Nodes REDGHOST:  131
+ASTART computation time REDGHOST:  0.0010569095611572266
+ASTART number of expanded Nodes ORANGEGHOST:  61
+ASTART number of total Nodes ORANGEGHOST:  180
+ASTART computation time ORANGEGHOST:  0.0020952224731445312
+ASTART number of expanded Nodes GREENGHOST:  24
+ASTART number of total Nodes GREENGHOST:  71
+ASTART computation time GREENGHOST:  0.0003159046173095703
+ASTART number of expanded Nodes REDGHOST:  38
+ASTART number of total Nodes REDGHOST:  113
+ASTART computation time REDGHOST:  0.0005879402160644531
+ASTART number of expanded Nodes ORANGEGHOST:  50
+ASTART number of total Nodes ORANGEGHOST:  146
+ASTART computation time ORANGEGHOST:  0.0009059906005859375
+ASTART number of expanded Nodes GREENGHOST:  16
+ASTART number of total Nodes GREENGHOST:  47
+ASTART computation time GREENGHOST:  0.00010991096496582031
+ASTART number of expanded Nodes REDGHOST:  19
+ASTART number of total Nodes REDGHOST:  56
+ASTART computation time REDGHOST:  0.00011301040649414062
+ASTART number of expanded Nodes ORANGEGHOST:  34
+ASTART number of total Nodes ORANGEGHOST:  101
+ASTART computation time ORANGEGHOST:  0.0002739429473876953
+ASTART number of expanded Nodes GREENGHOST:  10
+ASTART number of total Nodes GREENGHOST:  29
+ASTART computation time GREENGHOST:  0.00010967254638671875
+ASTART number of expanded Nodes REDGHOST:  15
+ASTART number of total Nodes REDGHOST:  44
+ASTART computation time REDGHOST:  0.00014591217041015625
+ASTART number of expanded Nodes ORANGEGHOST:  28
+ASTART number of total Nodes ORANGEGHOST:  83
+ASTART computation time ORANGEGHOST:  0.0003628730773925781
+ASTART number of expanded Nodes GREENGHOST:  10
+ASTART number of total Nodes GREENGHOST:  29
+ASTART computation time GREENGHOST:  0.00015211105346679688
+ASTART number of expanded Nodes REDGHOST:  15
+ASTART number of total Nodes REDGHOST:  44
+ASTART computation time REDGHOST:  0.0002079010009765625
+ASTART number of expanded Nodes ORANGEGHOST:  16
+ASTART number of total Nodes ORANGEGHOST:  47
+ASTART computation time ORANGEGHOST:  0.00022101402282714844
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.00013017654418945312
+ASTART number of expanded Nodes REDGHOST:  15
+ASTART number of total Nodes REDGHOST:  44
+ASTART computation time REDGHOST:  0.00021195411682128906
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.00015425682067871094
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.0001659393310546875
+ASTART number of expanded Nodes REDGHOST:  13
+ASTART number of total Nodes REDGHOST:  38
+ASTART computation time REDGHOST:  0.00010704994201660156
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  41
+ASTART computation time ORANGEGHOST:  0.00011301040649414062
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.0001251697540283203
+ASTART number of expanded Nodes REDGHOST:  13
+ASTART number of total Nodes REDGHOST:  38
+ASTART computation time REDGHOST:  0.00017213821411132812
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  41
+ASTART computation time ORANGEGHOST:  0.0002040863037109375
+ASTART number of expanded Nodes GREENGHOST:  7
+ASTART number of total Nodes GREENGHOST:  20
+ASTART computation time GREENGHOST:  0.0001232624053955078
+ASTART number of expanded Nodes REDGHOST:  10
+ASTART number of total Nodes REDGHOST:  29
+ASTART computation time REDGHOST:  0.0001399517059326172
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  0.00018310546875
+ASTART number of expanded Nodes GREENGHOST:  6
+ASTART number of total Nodes GREENGHOST:  17
+ASTART computation time GREENGHOST:  0.00010585784912109375
+ASTART number of expanded Nodes REDGHOST:  9
+ASTART number of total Nodes REDGHOST:  26
+ASTART computation time REDGHOST:  0.00011420249938964844
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.00012302398681640625
+ASTART number of expanded Nodes GREENGHOST:  6
+ASTART number of total Nodes GREENGHOST:  17
+ASTART computation time GREENGHOST:  0.0001010894775390625
+ASTART number of expanded Nodes REDGHOST:  9
+ASTART number of total Nodes REDGHOST:  26
+ASTART computation time REDGHOST:  0.00012993812561035156
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.0003840923309326172
+ASTART number of expanded Nodes GREENGHOST:  7
+ASTART number of total Nodes GREENGHOST:  20
+ASTART computation time GREENGHOST:  0.00012302398681640625
+ASTART number of expanded Nodes REDGHOST:  10
+ASTART number of total Nodes REDGHOST:  29
+ASTART computation time REDGHOST:  0.0001289844512939453
+ASTART number of expanded Nodes ORANGEGHOST:  14
+ASTART number of total Nodes ORANGEGHOST:  39
+ASTART computation time ORANGEGHOST:  0.0001862049102783203
+ASTART number of expanded Nodes GREENGHOST:  6
+ASTART number of total Nodes GREENGHOST:  17
+ASTART computation time GREENGHOST:  0.00010085105895996094
+ASTART number of expanded Nodes REDGHOST:  9
+ASTART number of total Nodes REDGHOST:  26
+ASTART computation time REDGHOST:  0.00011205673217773438
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  36
+ASTART computation time ORANGEGHOST:  0.00016617774963378906
+ASTART number of expanded Nodes GREENGHOST:  5
+ASTART number of total Nodes GREENGHOST:  14
+ASTART computation time GREENGHOST:  9.083747863769531e-05
+ASTART number of expanded Nodes REDGHOST:  12
+ASTART number of total Nodes REDGHOST:  35
+ASTART computation time REDGHOST:  0.0001621246337890625
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  7.605552673339844e-05
+ASTART number of expanded Nodes GREENGHOST:  6
+ASTART number of total Nodes GREENGHOST:  17
+ASTART computation time GREENGHOST:  0.00010323524475097656
+ASTART number of expanded Nodes REDGHOST:  8
+ASTART number of total Nodes REDGHOST:  23
+ASTART computation time REDGHOST:  0.00010919570922851562
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  0.000186920166015625
+ASTART number of expanded Nodes GREENGHOST:  5
+ASTART number of total Nodes GREENGHOST:  14
+ASTART computation time GREENGHOST:  9.083747863769531e-05
+ASTART number of expanded Nodes REDGHOST:  7
+ASTART number of total Nodes REDGHOST:  20
+ASTART computation time REDGHOST:  8.606910705566406e-05
+ASTART number of expanded Nodes ORANGEGHOST:  8
+ASTART number of total Nodes ORANGEGHOST:  23
+ASTART computation time ORANGEGHOST:  8.988380432128906e-05
+ASTART number of expanded Nodes GREENGHOST:  3
+ASTART number of total Nodes GREENGHOST:  8
+ASTART computation time GREENGHOST:  6.508827209472656e-05
+ASTART number of expanded Nodes REDGHOST:  4
+ASTART number of total Nodes REDGHOST:  11
+ASTART computation time REDGHOST:  5.1021575927734375e-05
+ASTART number of expanded Nodes ORANGEGHOST:  6
+ASTART number of total Nodes ORANGEGHOST:  17
+ASTART computation time ORANGEGHOST:  6.818771362304688e-05
+ASTART number of expanded Nodes GREENGHOST:  3
+ASTART number of total Nodes GREENGHOST:  8
+ASTART computation time GREENGHOST:  2.4080276489257812e-05
+ASTART number of expanded Nodes REDGHOST:  2
+ASTART number of total Nodes REDGHOST:  5
+ASTART computation time REDGHOST:  9.059906005859375e-06
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  2.8848648071289062e-05
+Thanks for playing
+You got  14 nomdots.
+Your time was: 14.70267391204834 seconds
+saving...
+
+<----> START The time is: 2024-10-07-17:15:28 <---->
+pygame 2.4.0 (SDL 2.26.4, Python 3.11.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0007748603820800781
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0007359981536865234
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0006432533264160156
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0016090869903564453
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0013828277587890625
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0013277530670166016
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.00151824951171875
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0013492107391357422
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0011887550354003906
+ASTART number of expanded Nodes GREENGHOST:  64
+ASTART number of total Nodes GREENGHOST:  189
+ASTART computation time GREENGHOST:  0.0012638568878173828
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0011761188507080078
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0011670589447021484
+ASTART number of expanded Nodes GREENGHOST:  52
+ASTART number of total Nodes GREENGHOST:  153
+ASTART computation time GREENGHOST:  0.0010602474212646484
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0014238357543945312
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0012211799621582031
+ASTART number of expanded Nodes GREENGHOST:  48
+ASTART number of total Nodes GREENGHOST:  142
+ASTART computation time GREENGHOST:  0.0012700557708740234
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.002124786376953125
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0014200210571289062
+ASTART number of expanded Nodes GREENGHOST:  41
+ASTART number of total Nodes GREENGHOST:  122
+ASTART computation time GREENGHOST:  0.0009701251983642578
+ASTART number of expanded Nodes REDGHOST:  64
+ASTART number of total Nodes REDGHOST:  189
+ASTART computation time REDGHOST:  0.0019419193267822266
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.001569986343383789
+ASTART number of expanded Nodes GREENGHOST:  38
+ASTART number of total Nodes GREENGHOST:  113
+ASTART computation time GREENGHOST:  0.0008928775787353516
+ASTART number of expanded Nodes REDGHOST:  52
+ASTART number of total Nodes REDGHOST:  153
+ASTART computation time REDGHOST:  0.0013608932495117188
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0019850730895996094
+ASTART number of expanded Nodes GREENGHOST:  34
+ASTART number of total Nodes GREENGHOST:  101
+ASTART computation time GREENGHOST:  0.0005698204040527344
+ASTART number of expanded Nodes REDGHOST:  48
+ASTART number of total Nodes REDGHOST:  142
+ASTART computation time REDGHOST:  0.0008440017700195312
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0013887882232666016
+ASTART number of expanded Nodes GREENGHOST:  22
+ASTART number of total Nodes GREENGHOST:  65
+ASTART computation time GREENGHOST:  0.0003960132598876953
+ASTART number of expanded Nodes REDGHOST:  41
+ASTART number of total Nodes REDGHOST:  122
+ASTART computation time REDGHOST:  0.0007369518280029297
+ASTART number of expanded Nodes ORANGEGHOST:  64
+ASTART number of total Nodes ORANGEGHOST:  189
+ASTART computation time ORANGEGHOST:  0.0014760494232177734
+ASTART number of expanded Nodes GREENGHOST:  20
+ASTART number of total Nodes GREENGHOST:  59
+ASTART computation time GREENGHOST:  0.0004322528839111328
+ASTART number of expanded Nodes REDGHOST:  38
+ASTART number of total Nodes REDGHOST:  113
+ASTART computation time REDGHOST:  0.0008800029754638672
+ASTART number of expanded Nodes ORANGEGHOST:  52
+ASTART number of total Nodes ORANGEGHOST:  153
+ASTART computation time ORANGEGHOST:  0.001583099365234375
+ASTART number of expanded Nodes GREENGHOST:  19
+ASTART number of total Nodes GREENGHOST:  56
+ASTART computation time GREENGHOST:  0.0003211498260498047
+ASTART number of expanded Nodes REDGHOST:  34
+ASTART number of total Nodes REDGHOST:  101
+ASTART computation time REDGHOST:  0.00074005126953125
+ASTART number of expanded Nodes ORANGEGHOST:  48
+ASTART number of total Nodes ORANGEGHOST:  142
+ASTART computation time ORANGEGHOST:  0.001341104507446289
+ASTART number of expanded Nodes GREENGHOST:  18
+ASTART number of total Nodes GREENGHOST:  53
+ASTART computation time GREENGHOST:  0.00018787384033203125
+ASTART number of expanded Nodes REDGHOST:  22
+ASTART number of total Nodes REDGHOST:  65
+ASTART computation time REDGHOST:  0.00042128562927246094
+ASTART number of expanded Nodes ORANGEGHOST:  41
+ASTART number of total Nodes ORANGEGHOST:  122
+ASTART computation time ORANGEGHOST:  0.0005571842193603516
+ASTART number of expanded Nodes GREENGHOST:  18
+ASTART number of total Nodes GREENGHOST:  53
+ASTART computation time GREENGHOST:  0.0002758502960205078
+ASTART number of expanded Nodes REDGHOST:  25
+ASTART number of total Nodes REDGHOST:  74
+ASTART computation time REDGHOST:  0.00032520294189453125
+ASTART number of expanded Nodes ORANGEGHOST:  44
+ASTART number of total Nodes ORANGEGHOST:  131
+ASTART computation time ORANGEGHOST:  0.0007348060607910156
+ASTART number of expanded Nodes GREENGHOST:  17
+ASTART number of total Nodes GREENGHOST:  50
+ASTART computation time GREENGHOST:  0.00028586387634277344
+ASTART number of expanded Nodes REDGHOST:  27
+ASTART number of total Nodes REDGHOST:  79
+ASTART computation time REDGHOST:  0.0006740093231201172
+ASTART number of expanded Nodes ORANGEGHOST:  43
+ASTART number of total Nodes ORANGEGHOST:  127
+ASTART computation time ORANGEGHOST:  0.0010058879852294922
+ASTART number of expanded Nodes GREENGHOST:  14
+ASTART number of total Nodes GREENGHOST:  41
+ASTART computation time GREENGHOST:  0.00023484230041503906
+ASTART number of expanded Nodes REDGHOST:  28
+ASTART number of total Nodes REDGHOST:  82
+ASTART computation time REDGHOST:  0.0005030632019042969
+ASTART number of expanded Nodes ORANGEGHOST:  32
+ASTART number of total Nodes ORANGEGHOST:  94
+ASTART computation time ORANGEGHOST:  0.0006079673767089844
+ASTART number of expanded Nodes GREENGHOST:  13
+ASTART number of total Nodes GREENGHOST:  38
+ASTART computation time GREENGHOST:  0.00012922286987304688
+ASTART number of expanded Nodes REDGHOST:  19
+ASTART number of total Nodes REDGHOST:  56
+ASTART computation time REDGHOST:  0.00017571449279785156
+ASTART number of expanded Nodes ORANGEGHOST:  30
+ASTART number of total Nodes ORANGEGHOST:  88
+ASTART computation time ORANGEGHOST:  0.0003368854522705078
+ASTART number of expanded Nodes GREENGHOST:  12
+ASTART number of total Nodes GREENGHOST:  35
+ASTART computation time GREENGHOST:  0.0003209114074707031
+ASTART number of expanded Nodes REDGHOST:  20
+ASTART number of total Nodes REDGHOST:  59
+ASTART computation time REDGHOST:  0.0005130767822265625
+ASTART number of expanded Nodes ORANGEGHOST:  28
+ASTART number of total Nodes ORANGEGHOST:  83
+ASTART computation time ORANGEGHOST:  0.00057220458984375
+ASTART number of expanded Nodes GREENGHOST:  11
+ASTART number of total Nodes GREENGHOST:  32
+ASTART computation time GREENGHOST:  0.00018405914306640625
+ASTART number of expanded Nodes REDGHOST:  16
+ASTART number of total Nodes REDGHOST:  47
+ASTART computation time REDGHOST:  0.0002338886260986328
+ASTART number of expanded Nodes ORANGEGHOST:  27
+ASTART number of total Nodes ORANGEGHOST:  80
+ASTART computation time ORANGEGHOST:  0.0005807876586914062
+ASTART number of expanded Nodes GREENGHOST:  12
+ASTART number of total Nodes GREENGHOST:  35
+ASTART computation time GREENGHOST:  0.0002009868621826172
+ASTART number of expanded Nodes REDGHOST:  20
+ASTART number of total Nodes REDGHOST:  59
+ASTART computation time REDGHOST:  0.0003566741943359375
+ASTART number of expanded Nodes ORANGEGHOST:  28
+ASTART number of total Nodes ORANGEGHOST:  83
+ASTART computation time ORANGEGHOST:  0.000659942626953125
+ASTART number of expanded Nodes GREENGHOST:  13
+ASTART number of total Nodes GREENGHOST:  38
+ASTART computation time GREENGHOST:  0.00021505355834960938
+ASTART number of expanded Nodes REDGHOST:  11
+ASTART number of total Nodes REDGHOST:  32
+ASTART computation time REDGHOST:  0.0001499652862548828
+ASTART number of expanded Nodes ORANGEGHOST:  17
+ASTART number of total Nodes ORANGEGHOST:  50
+ASTART computation time ORANGEGHOST:  0.0002510547637939453
+ASTART number of expanded Nodes GREENGHOST:  10
+ASTART number of total Nodes GREENGHOST:  29
+ASTART computation time GREENGHOST:  0.00011086463928222656
+ASTART number of expanded Nodes REDGHOST:  10
+ASTART number of total Nodes REDGHOST:  29
+ASTART computation time REDGHOST:  8.797645568847656e-05
+ASTART number of expanded Nodes ORANGEGHOST:  15
+ASTART number of total Nodes ORANGEGHOST:  44
+ASTART computation time ORANGEGHOST:  0.00022101402282714844
+ASTART number of expanded Nodes GREENGHOST:  12
+ASTART number of total Nodes GREENGHOST:  35
+ASTART computation time GREENGHOST:  0.0001442432403564453
+ASTART number of expanded Nodes REDGHOST:  6
+ASTART number of total Nodes REDGHOST:  17
+ASTART computation time REDGHOST:  5.1021575927734375e-05
+ASTART number of expanded Nodes ORANGEGHOST:  9
+ASTART number of total Nodes ORANGEGHOST:  26
+ASTART computation time ORANGEGHOST:  8.106231689453125e-05
+ASTART number of expanded Nodes GREENGHOST:  8
+ASTART number of total Nodes GREENGHOST:  23
+ASTART computation time GREENGHOST:  0.0001800060272216797
+ASTART number of expanded Nodes REDGHOST:  7
+ASTART number of total Nodes REDGHOST:  20
+ASTART computation time REDGHOST:  8.487701416015625e-05
+ASTART number of expanded Nodes ORANGEGHOST:  10
+ASTART number of total Nodes ORANGEGHOST:  29
+ASTART computation time ORANGEGHOST:  0.0002779960632324219
+ASTART number of expanded Nodes GREENGHOST:  9
+ASTART number of total Nodes GREENGHOST:  26
+ASTART computation time GREENGHOST:  0.0001010894775390625
+ASTART number of expanded Nodes REDGHOST:  8
+ASTART number of total Nodes REDGHOST:  23
+ASTART computation time REDGHOST:  6.508827209472656e-05
+ASTART number of expanded Nodes ORANGEGHOST:  11
+ASTART number of total Nodes ORANGEGHOST:  32
+ASTART computation time ORANGEGHOST:  9.107589721679688e-05
+ASTART number of expanded Nodes GREENGHOST:  11
+ASTART number of total Nodes GREENGHOST:  32
+ASTART computation time GREENGHOST:  6.008148193359375e-05
+ASTART number of expanded Nodes REDGHOST:  10
+ASTART number of total Nodes REDGHOST:  29
+ASTART computation time REDGHOST:  3.910064697265625e-05
+ASTART number of expanded Nodes ORANGEGHOST:  13
+ASTART number of total Nodes ORANGEGHOST:  38
+ASTART computation time ORANGEGHOST:  5.2928924560546875e-05
+ASTART number of expanded Nodes GREENGHOST:  10
+ASTART number of total Nodes GREENGHOST:  29
+ASTART computation time GREENGHOST:  0.0001590251922607422
+ASTART number of expanded Nodes REDGHOST:  5
+ASTART number of total Nodes REDGHOST:  14
+ASTART computation time REDGHOST:  5.984306335449219e-05
+ASTART number of expanded Nodes ORANGEGHOST:  12
+ASTART number of total Nodes ORANGEGHOST:  35
+ASTART computation time ORANGEGHOST:  0.00023603439331054688
+ASTART number of expanded Nodes GREENGHOST:  4
+ASTART number of total Nodes GREENGHOST:  11
+ASTART computation time GREENGHOST:  7.700920104980469e-05
+ASTART number of expanded Nodes REDGHOST:  3
+ASTART number of total Nodes REDGHOST:  8
+ASTART computation time REDGHOST:  3.409385681152344e-05
+ASTART number of expanded Nodes ORANGEGHOST:  7
+ASTART number of total Nodes ORANGEGHOST:  20
+ASTART computation time ORANGEGHOST:  8.0108642578125e-05
+Thanks for playing
+You got  13 nomdots.
+Your time was: 14.827220916748047 seconds
+saving...
+
